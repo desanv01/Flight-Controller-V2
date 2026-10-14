@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "FC_Symbols")(type "KiCad")(uri "${KIPRJMOD}/FC_Symbols.kicad_sym")(options "")(descr "FC exact manufacturer-derived symbols"))
+)
