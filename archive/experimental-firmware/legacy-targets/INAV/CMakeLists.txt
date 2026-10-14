@@ -1,0 +1,1 @@
+target_stm32h743xi(FCV2 DISABLE_MSC)
