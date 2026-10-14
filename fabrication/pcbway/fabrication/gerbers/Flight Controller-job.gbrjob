@@ -1,0 +1,207 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "10.0.6"
+    },
+    "CreationDate": "2026-10-14T18:29:39+08:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "Flight Controller",
+      "GUID": "466c6967-6874-4204-936f-6e74726f6c6c",
+      "Revision": "rev?"
+    },
+    "Size": {
+      "X": 40.825,
+      "Y": 50.75
+    },
+    "LayerNumber": 6,
+    "BoardThickness": 1.6,
+    "Finish": "ENIG"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.1,
+      "PadToTrack": 0.1,
+      "TrackToTrack": 0.1,
+      "MinLineWidth": 0.1,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.1,
+      "PadToTrack": 0.1,
+      "TrackToTrack": 0.1,
+      "MinLineWidth": 0.1,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "Flight Controller-F_Cu (SIG PWR).gtl",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-In1_Cu (GND).g1",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-In2_Cu (SIG PWR).g2",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-In3_Cu(GND SIG).g3",
+      "FileFunction": "Copper,L4,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-In4_Cu (GND).g4",
+      "FileFunction": "Copper,L5,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-B_Cu (SIG PWR).gbl",
+      "FileFunction": "Copper,L6,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-F_Paste.gtp",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-B_Paste.gbp",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-F_Silkscreen.gto",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-B_Silkscreen.gbo",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Flight Controller-F_Mask.gts",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "Flight Controller-B_Mask.gbs",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "Flight Controller-Edge_Cuts.gm1",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Color": "Black",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "Green",
+      "Thickness": 0.01,
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "F.Cu (SIG PWR)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1195,
+      "Material": "2116 RC58% (PCBWay regular 6-layer)",
+      "Name": "F.Cu (SIG PWR)/In1.Cu (GND)",
+      "Notes": "Type: dielectric layer 1 (from F.Cu (SIG PWR) to In1.Cu (GND))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "In1.Cu (GND)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.43,
+      "Material": "FR4 core (PCBWay regular 6-layer)",
+      "Name": "In1.Cu (GND)/In2.Cu (SIG PWR)",
+      "Notes": "Type: dielectric layer 2 (from In1.Cu (GND) to In2.Cu (SIG PWR))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "In2.Cu (SIG PWR)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.175,
+      "Material": "7628 RC46% (PCBWay regular 6-layer)",
+      "Name": "In2.Cu (SIG PWR)/In3.Cu(GND SIG)",
+      "Notes": "Type: dielectric layer 3 (from In2.Cu (SIG PWR) to In3.Cu(GND SIG))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "In3.Cu(GND SIG)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.43,
+      "Material": "FR4 core (PCBWay regular 6-layer)",
+      "Name": "In3.Cu(GND SIG)/In4.Cu (GND)",
+      "Notes": "Type: dielectric layer 4 (from In3.Cu(GND SIG) to In4.Cu (GND))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "In4.Cu (GND)"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.1195,
+      "Material": "2116 RC58% (PCBWay regular 6-layer)",
+      "Name": "In4.Cu (GND)/B.Cu (SIG PWR) ",
+      "Notes": "Type: dielectric layer 5 (from In4.Cu (GND) to B.Cu (SIG PWR) )"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "B.Cu (SIG PWR) "
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "Green",
+      "Thickness": 0.01,
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}

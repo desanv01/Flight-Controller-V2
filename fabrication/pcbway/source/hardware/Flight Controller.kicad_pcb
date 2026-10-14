@@ -39068,7 +39068,7 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "FC DRONE FC"
+	(gr_text "FC V2"
 		(at 128.699999 95.1 0)
 		(layer "B.SilkS")
 		(uuid "1bbf7459-535c-43f8-b113-562196d5c594")

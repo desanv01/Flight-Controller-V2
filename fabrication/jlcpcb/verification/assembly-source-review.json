@@ -1,0 +1,29 @@
+[
+  {
+    "file": "FC_EVT1-JLCPCB-BOM-FINAL.csv",
+    "rows": 51,
+    "references": 113,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  },
+  {
+    "file": "FC_EVT1-JLCPCB-CPL-FINAL.csv",
+    "rows": 113,
+    "references": 113,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  },
+  {
+    "file": "J12-HAND-INSTALL-BOM.csv",
+    "rows": 1,
+    "references": 1,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "file": "FC_EVT1_PCBWAY-DNP-and-NonPurchased.csv",
+    "rows": 8,
+    "references": 8,
+    "duplicate_references": [],
+    "unknown_board_references": [
+      "C14",
+      "D3",
+      "L2",
+      "U4"
+    ],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  },
+  {
+    "file": "FC_EVT1_PCBWAY-SMT-Centroid-Bottom.csv",
+    "rows": 54,
+    "references": 54,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  },
+  {
+    "file": "FC_EVT1_PCBWAY-SMT-Centroid-Top.csv",
+    "rows": 59,
+    "references": 59,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  },
+  {
+    "file": "FC_EVT1_PCBWAY-SMT-Centroid.csv",
+    "rows": 113,
+    "references": 113,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  },
+  {
+    "file": "FC_EVT1_PCBWAY-THT-Placement.csv",
+    "rows": 1,
+    "references": 1,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  },
+  {
+    "file": "FC_EVT1_PCBWAY-Turnkey-BOM.csv",
+    "rows": 69,
+    "references": 114,
+    "duplicate_references": [],
+    "unknown_board_references": [],
+    "dnp_references_present": [],
+    "bom_excluded_references_present": []
+  }
+]

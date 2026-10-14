@@ -1,0 +1,328 @@
+(footprint "AO3407A"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.95 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "069c3e18-4549-47f8-92e6-269eee8076df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AO3407A"
+		(at 0 4.95 0)
+		(layer "F.Fab")
+		(uuid "1d720421-1d74-4ec8-a1af-4356e4c82178")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/product-detail/MOSFET_AOS_AO3407A_AO3407A_C15155.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "641fd063-255c-4146-b0e6-6bdf3dabf49d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "P-channel 30 V MOSFET, SOT-23"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15262bf0-5303-458b-8905-2a7b5c620181")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C15155"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4c6f14d-c665-468c-9e96-8a352e0257a4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Link" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62718ae5-eeab-45de-ba01-b48244b5c678")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Manufacturer" "Alpha & Omega Semiconductor"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0d20d62f-0f65-4b83-a62b-d5de19fcc74f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MPN" "AO3407A"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "5c437b55-f060-4775-a482-654fb3eaeabf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Tolerance" "N/A"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a6448cc7-eccc-463c-b14d-6d3b4ac6367d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Voltage Rating" "30 V"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "657a0733-38d8-48c6-ba1a-0773f15c6dc4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Power Rating" "1.4 W"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a813b38b-8b95-45d3-90f4-3d828c657338")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Technology" "P-channel MOSFET"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "266ea70e-08dc-4f51-baa1-21b28f55c8e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Temperature Rating" "-55..150 C"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "47e391d4-2e5c-42cf-875c-02c5a7b9d7d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Lifecycle" "Active"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "69d95ce2-dc0e-439a-b9af-911d4a2413c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Approved Distributor" "DigiKey"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "b08bba25-973c-4159-8a40-a0d3c33dbc43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Distributor Part Number" "See sourcing URL"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "6d07aecf-bd68-4387-9b2b-62cdff822b4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Sourcing URL" "https://www.digikey.com/en/products/result?keywords=AO3407A"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a8af6f21-880a-410b-94d2-9f8e385f09b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PCBWay Sourcing Note" "PCBWay turnkey; exact MPN"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d20d0de1-b361-4160-84d0-9c0b15fed2aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Substitution Policy" "NO SUBSTITUTE without written approval"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "70ebefda-9c81-432c-b083-af4c214163b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "DNP Status" "POPULATE"
+		(at 0 0 -90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "5428bbaa-3dff-448a-8998-9fc52e12b6ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(sheetname "/Power/")
+	(sheetfile "power.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 1.65 0.95)
+		(end 1.75 0.95)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "f9050b11-1bf8-411a-811e-41e1fb5ea673")
+	)
+	(fp_circle
+		(center 1.4 1.46)
+		(end 1.43 1.46)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3819ee88-042d-4936-a855-29b25673f2d7")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c5099e45-036a-45b6-a980-529d74982490")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 1.24 0.95)
+		(size 1.07 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cc3e6c77-29d3-40ea-b123-757199a93da4")
+	)
+	(pad "2" smd rect
+		(at 1.24 -0.95)
+		(size 1.07 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3952e368-aec8-4331-b5db-54093d264c96")
+	)
+	(pad "3" smd rect
+		(at -1.24 0)
+		(size 1.07 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "14f8844c-e533-464c-859d-5f0c9a5894cc")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D models/AO3407A.step"
+		(offset
+			(xyz 0 -0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 270)
+		)
+	)
+)

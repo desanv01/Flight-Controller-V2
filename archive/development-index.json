@@ -5418,516 +5418,6 @@
     "state": "archived-source-fragment"
   },
   {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Service Worker/Database/000003.log",
-    "sha256": "dd5f256dc6dbf1cd1858007f945cc97444c1c81b5058b0b30c07acb96f453fd8",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Service Worker/Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "4af8a9519f38c3dd25fc61a0ea6e6ea7694a45961427dec03f9a9ceb83b2a256",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Service Worker/Database/000003.log",
-    "sha256": "bfec73b5b95480683060d7da08329531b091cd1de606a57d630d061196240f16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Service Worker/Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "6f4ad6d481df2861de99ff953767d60284718df84167546ceb8249f9e16a7d3d",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-closeups/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Service Worker/Database/000003.log",
-    "sha256": "a44d15c0c6156917c042ddac2721abf1faf461ff1a64a706f469271e0ab67149",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Service Worker/Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "993891eb82ac7b84cd5635f67ee14ee3cd4fb63adbb15d593788eae0529b9c0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l2_ground/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Service Worker/Database/000003.log",
-    "sha256": "400c2ded7cc7e2fcd472babf39e048e582737ea372f7796fd345e496a3a0e474",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Service Worker/Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "7add5e9fc17e17164c2974452f7c31a78d06cf11f6d6a076e4988637514d6022",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Service Worker/Database/000003.log",
-    "sha256": "400c2ded7cc7e2fcd472babf39e048e582737ea372f7796fd345e496a3a0e474",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Service Worker/Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "fb0c6f4f3ade4d1446bab3595b5464af55572db483e70ebb9a69eedac1a53dcc",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80/renders/edge-profile/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage09b-stage10-reset/candidate_80/sheets/01_mcu_core.kicad_sch",
     "sha256": "473ccccf04174d7b738a3d2fae18bb27a6c6b2fd7989f4457a12d60a87b1dda7",
     "canonical": "hardware/FC_REV_A/sheets/01_mcu_core.kicad_sch",
@@ -7420,420 +6910,6 @@
     "sha256": "2ea54852d31f50404abc0a3fa46f6d30c9b0a5c9032d6dab5e4024d476d8e4b0",
     "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/verification_refined.json",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/EdgeCoupons/coupons_data.db/000003.log",
-    "sha256": "8e0856cf502759576d68426642c751edaaba82837899c0bacc817fb67ee4b69b",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/EdgeCoupons/coupons_data.db/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Service Worker/Database/000003.log",
-    "sha256": "d7b33e2dd415063721ba630b0183ec37f131c671468e6dc62a421a4d1a7656f6",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Service Worker/Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "490cab1ab5b597460bb48b252b777f924c3c67212d72fe9490a9cf8c2fe6eec0",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-back/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Service Worker/Database/000003.log",
-    "sha256": "fc6ef42b90ad7548c3d206561b4d26919047bd89771160c1595f69337abbb65d",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Service Worker/Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "e0b55aac77ec7ddf572d600dcda8a7ce439e8046d735d0dcc58781c61af2e2d1",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-front/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Service Worker/Database/000003.log",
-    "sha256": "400c2ded7cc7e2fcd472babf39e048e582737ea372f7796fd345e496a3a0e474",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-l3_power_signal/Default/Service Worker/Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "ce52b14127b7062080c1900fae76904843ee92c018c0b5a0c8a6d060912b01b1",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l2_ground/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/arbitration_service_config.json",
-    "sha256": "c8552353df0a2d5cd5a1c6af1dcee8dc5b0a1e0f513e455aee553bf07def2f8c",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/arbitration_service_config.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/DualEngine/SiteList-Consumer.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/DualEngine/SiteList-Enterprise.json",
-    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/DualEngine/SiteList-Consumer.json",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Extension Rules/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Extension Scripts/000003.log",
-    "sha256": "c97ba03706d6b0cdd3fc6aa4fc5ae741636998fff708bff4a620dc43e92001fa",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension Rules/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Extension State/000003.log",
-    "sha256": "065e1897d6332d0a3bff723e9f876e07f5854137c32635a5dbf1dbe01dac695f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Extension State/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Service Worker/Database/000003.log",
-    "sha256": "19d52c8e77d2c1de3a0987db22a0ba17c084cf4b48c1a0a1e807f7e13aac006e",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Service Worker/Database/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Session Storage/000003.log",
-    "sha256": "8d63df353446c3b75e8bbc10401db1b3887aa993b0e051b7ab64eed76a391493",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/shared_proto_db/000003.log",
-    "sha256": "772d700ae11d60d0b1d6a3c0443b47514c17013fada77faae5f71da68506cd16",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/shared_proto_db/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/shared_proto_db/metadata/000003.log",
-    "sha256": "a3886b412a6cd270904443d98e008110d8f2c9f8617f0659c7d3ca84c084b66b",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/shared_proto_db/metadata/000003.log",
-    "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Site Characteristics Database/000003.log",
-    "sha256": "5ece5e88084a51ef28e422f2f049b17c7cee5ff5b47b43e9989413f43659a2be",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Site Characteristics Database/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Local Storage/leveldb/000003.log",
-    "sha256": "cc76eb3656c12e61c397a419e0bd073c95d0320b4baee081a5088ba6be342f9f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Storage/leveldb/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "sha256": "1f53af2a5ad46f8ded114f42b875f0ab60c1d0f5db286b5b7c87faf0e84444bd",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Storage/ext/ihmafllikibpmigkcoadcmckbfhibefp/def/Session Storage/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/Default/Sync Data/LevelDB/000003.log",
-    "sha256": "da0bdc3113462cc5574abc5032a325b075b495173bca5cf97758687f848a6c7f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Sync Data/LevelDB/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage09b-stage10-reset/candidate_80_refined/renders/edge-l3_power_signal/extensions_crx_cache/metadata.json",
-    "sha256": "2771d13c637c267132afff9db67537bef95708534b79ae8d954254c4e64e4e0f",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/extensions_crx_cache/metadata.json",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage09b-stage10-reset/candidate_80_refined/sheets/01_mcu_core.kicad_sch",
@@ -14040,12 +13116,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/accounting-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/add_connectors.py",
     "sha256": "d0e90d13fe3199f76c6bdb5dc1afa3dffa72d222db2451db3d4ca3dc137fafdd",
     "canonical": "qa/stage10-pcb/add_connectors.py",
@@ -14172,12 +13242,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/bounded-grid-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/bounded_grid_closure.py",
     "sha256": "5860d4f004ec54ccb4ebf759e5164b64b15e072654366ddf3bff1d679807ffbf",
     "canonical": "qa/stage10-pcb/bounded_grid_closure.py",
@@ -14199,12 +13263,6 @@
     "path": "qa/stage10-pcb/bounded_grid_trial.kicad_pro",
     "sha256": "498c06bd31b78d858050f66d7c462cc7cfe03de4075328ef676cbeb49f0014e1",
     "canonical": "hardware/FC_REV_A/FC_REV_A.kicad_pro",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/boxes-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
     "state": "duplicate-indexed"
   },
   {
@@ -14298,12 +13356,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/c53-return-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/c53_returned_trial.kicad_pcb",
     "sha256": "5b189d4d9f14b585a8aa7f598512e0d2cd918232c0a2836330a205bc684d4484",
     "canonical": "qa/stage10-pcb/c53_returned_trial.kicad_pcb",
@@ -14388,18 +13440,6 @@
     "state": "duplicate-indexed"
   },
   {
-    "path": "qa/stage10-pcb/clock-placement-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/clock-refine-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/clock_layout_refine.py",
     "sha256": "f7368e3c6d01e24be3d1bae332c00dc02f6f865f03e96a6df8b10ce937679cbf",
     "canonical": "qa/stage10-pcb/clock_layout_refine.py",
@@ -14440,12 +13480,6 @@
     "sha256": "4a1891f545765b5a7e8e49ec743252604c0008844cc09bb4a5d88d61fda2e802",
     "canonical": "qa/stage10-pcb/clock_usb_closure.json",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/close-clock-usb-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/close_clock_usb.py",
@@ -14580,18 +13614,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/connectivity-api-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/connectivity-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/connectivity_accounting.json",
     "sha256": "966a62a3e6062350d8037a07da423648a6a76bf3a0a7a85fee8f57a678f8e3f3",
     "canonical": "qa/stage10-pcb/connectivity_accounting.json",
@@ -14628,12 +13650,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/consolidate-ground-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/consolidate_sensor_ground.py",
     "sha256": "35f6063e262c43a5741dfd486d0328d79293ed05a67072a6c02a5cb79c5385dc",
     "canonical": "qa/stage10-pcb/consolidate_sensor_ground.py",
@@ -14652,105 +13668,9 @@
     "state": "duplicate-indexed"
   },
   {
-    "path": "qa/stage10-pcb/continuation-escape-route-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-escape-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-fanout-route-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-fanout-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-fine-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-inspect-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-local-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-mcu-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-other-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-pads-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-power-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-repair-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-sda-imu-repair-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-sda-repair-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/continuation-sda-stderr.log",
     "sha256": "9da246e12af49bbdccfa59608d51bb93cf2ca3cf9983577119816974e2b17541",
     "canonical": "qa/stage10-pcb/compare-candidate-stderr.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-sensors-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/continuation-verify-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
     "state": "duplicate-indexed"
   },
   {
@@ -15030,24 +13950,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/courtyard-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/debug-escapes-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/debug-grid-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/debug_boxes.py",
     "sha256": "39da1ae781d8240175e27b95ec72e432a5fbf64cb422fffb9a3f5018181e8aba",
     "canonical": "qa/stage10-pcb/debug_boxes.py",
@@ -15070,12 +13972,6 @@
     "sha256": "014a0a0df3cada761fa29f700ebea1ecd5acd253e2e3737a54654dd951bc834f",
     "canonical": "qa/stage10-pcb/debug_grid_map.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/dense-sensor-fanout-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/dense_sensor_fanout.py",
@@ -15159,12 +14055,6 @@
     "path": "qa/stage10-pcb/direct_pair_trial.kicad_pro",
     "sha256": "498c06bd31b78d858050f66d7c462cc7cfe03de4075328ef676cbeb49f0014e1",
     "canonical": "hardware/FC_REV_A/FC_REV_A.kicad_pro",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/dogleg-sensor-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
     "state": "duplicate-indexed"
   },
   {
@@ -15648,12 +14538,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/dsn-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/entry_library_manifest.json",
     "sha256": "b4e3317108969844fe31e8b481d99d32bd3b069bdb8e1651fa6822464a608b01",
     "canonical": "qa/stage10-pcb/entry_library_manifest.json",
@@ -15744,12 +14628,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/exact-fanout-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/exact_fanout_trial.kicad_pcb",
     "sha256": "a8d7fef185b5734b4bdda881e735bdb1056a8fddcb4b0a73b5c2f052d57a65c7",
     "canonical": "qa/stage10-pcb/exact_fanout_trial.kicad_pcb",
@@ -15772,24 +14650,6 @@
     "sha256": "bdc66b838ec71dcf9e8d012ab8689a2fbd8e46ed8f8d2c9c457a2905cd8eaa7e",
     "canonical": "qa/stage10-pcb/exact_pad_fanout.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/export-reflow-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/export-repair-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/export-routing-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/export_completion_reflow.py",
@@ -16062,12 +14922,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/ground-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/ground_consolidated_trial.kicad_pcb",
     "sha256": "97e40620b7a79babcec3e82bf892d56fab5e60f418b856dd14fc0329ce16b847",
     "canonical": "qa/stage10-pcb/ground_consolidated_trial.kicad_pcb",
@@ -16152,58 +15006,10 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/hse-pads-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/import-complete-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/import-refined-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/import-repair-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/import-signal-reflow-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/import-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/import_session.py",
     "sha256": "199b772c2eed6dbb934917b8ff6ef4cb4e1ad7ced8e066620bace6d978a3442a",
     "canonical": "qa/stage10-pcb/import_session.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/inspect-escape-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/inspect-passives-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/inspect_escape_obstacles.py",
@@ -16236,12 +15042,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/liberate-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/liberated_pad_escapes.json",
     "sha256": "c55ac7886829aef772e6bd805a845d60327b0303c6fe70ac8b2fa817e288c5fb",
     "canonical": "qa/stage10-pcb/liberated_pad_escapes.json",
@@ -16264,18 +15064,6 @@
     "sha256": "f886cf838aa3d229bb5ed0b39e532a4381077c2b12c282361fbced4f5aba7401",
     "canonical": "qa/stage10-pcb/liberate_pad_escapes.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/local-closure-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/localcaps-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/local_bypass_relocations.json",
@@ -16306,12 +15094,6 @@
     "sha256": "b3a19f9f7e9c9ed577393dc72bb3cfc13b4acd86732f57c04b221944b2d73d29",
     "canonical": "qa/stage10-pcb/local_route_closure.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/lock-critical-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/lock-escapes-stderr.log",
@@ -16416,22 +15198,10 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/lsecaps-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/lse_cap_placement.json",
     "sha256": "4d8f77089e7ef9482ee5a225b1b752b8e7ca846c7b7fd80caaaf60a7c7e9e15e",
     "canonical": "qa/stage10-pcb/lse_cap_placement.json",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/main-plane-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/main_fanout_result.json",
@@ -16476,34 +15246,10 @@
     "state": "duplicate-indexed"
   },
   {
-    "path": "qa/stage10-pcb/metrics-final-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/metrics-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/models-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/molex_model.py",
     "sha256": "596a2dee3228b9eabbd007a71f4beb09f8d48c3bbd2bc8662d29c0f99bb4749d",
     "canonical": "qa/stage10-pcb/molex_model.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/moved-pulls-return-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/moved_pulls_returned_trial.kicad_pcb",
@@ -16740,18 +15486,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/orient-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/outward-fanout-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/outward_fanout_trial.kicad_pcb",
     "sha256": "8328e3d8439221a96b739db447f9dd017a2e9e807ef639ff15503a0e5f581a03",
     "canonical": "qa/stage10-pcb/outward_fanout_trial.kicad_pcb",
@@ -16776,24 +15510,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/pad-api-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/pad-inspect-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/pads-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/pad_dump.py",
     "sha256": "4a44cbc7e23a0ec9c60f524c6b3294eb6e0df1c101d76810e598059d08f3034b",
     "canonical": "qa/stage10-pcb/pad_dump.py",
@@ -16804,30 +15520,6 @@
     "sha256": "d35f8d8c5cb80e9a06e3ed51b4f81ed88b051e7fe36b2e96222b8eed895789c1",
     "canonical": "qa/stage10-pcb/pair_pads.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/place-c53-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/place-pulls-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/place-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/place2-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/place_local_caps.py",
@@ -16936,42 +15628,6 @@
     "sha256": "15632949d6e4e9df6c4484be47e797c3c80b62f35f5162f76f19b8ced4b218ce",
     "canonical": "qa/stage10-pcb/plane_drop_connect.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/power-anchor-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/power-copper-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/power-escapes-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/power-fanout-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/power-neighbors-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/power-refine-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/power_anchors.json",
@@ -17088,12 +15744,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/prepare-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/prepare_board.py",
     "sha256": "06bf590fc713d0d4bf2bb0c0fa849210bf2c513b0c346251eb19a550fe6108e6",
     "canonical": "qa/stage10-pcb/prepare_board.py",
@@ -17109,12 +15759,6 @@
     "path": "qa/stage10-pcb/pre_route.kicad_pro",
     "sha256": "498c06bd31b78d858050f66d7c462cc7cfe03de4075328ef676cbeb49f0014e1",
     "canonical": "hardware/FC_REV_A/FC_REV_A.kicad_pro",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/prune-ground-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
     "state": "duplicate-indexed"
   },
   {
@@ -17274,12 +15918,6 @@
     "state": "duplicate-indexed"
   },
   {
-    "path": "qa/stage10-pcb/remove-route-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/removed_router_errors.json",
     "sha256": "5a43047923f9f7926175c43361cbf9c36e6b158d93b5d2a07d6eba271615052c",
     "canonical": "qa/stage10-pcb/removed_router_errors.json",
@@ -17364,12 +16002,6 @@
     "state": "duplicate-indexed"
   },
   {
-    "path": "qa/stage10-pcb/required-batch-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/required_batch_attempted.json",
     "sha256": "2a7d8dc399b8700a4fd06a85c20b0a8b952457e623db017f4e90709678207fab",
     "canonical": "qa/stage10-pcb/required_batch_attempted.json",
@@ -17418,12 +16050,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/restore-returns-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/restored_plane_returns.json",
     "sha256": "6579af1a2fa35d6a0db8e8679fea4dacd1ca765066e5b72042bd75f00ccdae05",
     "canonical": "qa/stage10-pcb/restored_plane_returns.json",
@@ -17458,12 +16084,6 @@
     "sha256": "1158cee812c7887c17b5e5cf24a0293bcde3f689635ea358f6545fac99093844",
     "canonical": "qa/stage10-pcb/return_moved_pulls.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/reverse-grid-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/reverse_grid_closure.py",
@@ -17602,60 +16222,6 @@
     "sha256": "84877ce3560df91483fb7c3986502797f6f1619af9041f9f6d99e178b7122425",
     "canonical": "qa/stage10-pcb/sch-svg-stderr.log",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-anchor-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-bridge-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-current-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-dogleg-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-fanout-second-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-fanout-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-grid-debug.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-trunks-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/sd-via-api-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/sd_bridge_trial.kicad_pcb",
@@ -17808,12 +16374,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/selected-dogleg-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/selected_doglegs.py",
     "sha256": "adf988dde181f042bf60ecb6ab259b752234e474afb99eaf28e1dab937518551",
     "canonical": "qa/stage10-pcb/selected_doglegs.py",
@@ -17932,12 +16492,6 @@
     "sha256": "54986f24feec6a0fba1c8ffe01df8e31b94f49ac626e54bb912bb59e0ff04a69",
     "canonical": "qa/stage10-pcb/sensor_pull_placement.json",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/shape-api-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/signal_reflow_main_trial.kicad_pcb",
@@ -18126,30 +16680,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/usb-main-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/usb-pair-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/usb-port-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/usb-vias-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/usb_escape_bounds.py",
     "sha256": "0fbaedbec7f942fa8f410bc3898979aa365b0774d0b8eedb14cd3ea3d776cf53",
     "canonical": "qa/stage10-pcb/usb_escape_bounds.py",
@@ -18210,28 +16740,10 @@
     "state": "duplicate-indexed"
   },
   {
-    "path": "qa/stage10-pcb/verification-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/verification_summary.json",
     "sha256": "8ad259f45d944d856e786ccb707f8040e591c3a456c12acfc6f445bd1d6af0c7",
     "canonical": "qa/stage10-pcb/verification_summary.json",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/verify-active-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
-    "path": "qa/stage10-pcb/verify-final-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/verify_stage10.py",
@@ -18546,12 +17058,6 @@
     "state": "archived-technical-work"
   },
   {
-    "path": "qa/stage10-pcb/wide-returns-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
-  },
-  {
     "path": "qa/stage10-pcb/wide_plane_returns.json",
     "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "canonical": "qa/stage10-pcb/c53_returns.json",
@@ -18652,12 +17158,6 @@
     "sha256": "0d992a61a8caf85b434f8146efe2e962a6f0633fa40ffb21dc47cc8a9a2a9c71",
     "canonical": "qa/stage10-pcb/write_continuation.py",
     "state": "archived-technical-work"
-  },
-  {
-    "path": "qa/stage10-pcb/zone-api-stderr.log",
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "canonical": "qa/stage09b-stage10-reset/candidate_80/renders/edge-back/Default/Local Extension Settings/jdiccldimpdaibmpdkjnbmckianbfold/000003.log",
-    "state": "duplicate-indexed"
   },
   {
     "path": "qa/stage10-pcb/accepted_batches/001/before.kicad_pcb",

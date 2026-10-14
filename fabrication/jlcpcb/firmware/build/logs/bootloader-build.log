@@ -1,0 +1,371 @@
+Waf: Entering directory `[LOCAL_BUILD_PATH]
+Embedding file hwdef.dat:[LOCAL_BUILD_PATH]
+[4/9] Creating build/FCV2/modules/ChibiOS/include_dirs
+[5/9] Compiling libraries/AP_Scripting/generator/src/main.c
+[6/9] Creating build/FCV2/ap_version.h
+[7/9] Creating build/FCV2/chibios_flags.h
+[8/9] Linking build/FCV2/modules/ChibiOS/libch.a
+[9/9] Processing [LOCAL_BUILD_PATH] libraries/AP_Scripting/generator/description/bindings.desc build/FCV2/gen-bindings -> build/FCV2/libraries/AP_Scripting/lua_generated_bindings.cpp build/FCV2/libraries/AP_Scripting/lua_generated_bindings.h
+[1/110] ChibiOS: Compiling crt0_v7m.S
+[2/110] ChibiOS: Compiling vectors.S
+[3/110] ChibiOS: Compiling chcoreasm.S
+[4/110] ChibiOS: Compiling chcore.c
+[5/110] ChibiOS: Compiling crt1.c
+[6/110] ChibiOS: Compiling bufstreams.c
+[7/110] ChibiOS: Compiling chprintf.c
+[8/110] ChibiOS: Compiling chscanf.c
+[9/110] ChibiOS: Compiling memstreams.c
+[10/110] ChibiOS: Compiling nullstreams.c
+[11/110] ChibiOS: Compiling osal.c
+[12/110] ChibiOS: Compiling hal_adc_lld.c
+[13/110] ChibiOS: Compiling stm32_bdma.c
+[14/110] ChibiOS: Compiling hal_crypto_lld.c
+[15/110] ChibiOS: Compiling hal_dac_lld.c
+[16/110] ChibiOS: Compiling stm32_dma.c
+[17/110] ChibiOS: Compiling stm32_exti.c
+[18/110] ChibiOS: Compiling hal_can_lld.c
+[19/110] ChibiOS: Compiling hal_pal_lld.c
+[20/110] ChibiOS: Compiling hal_i2c_lld.c
+[21/110] ChibiOS: Compiling hal_mac_lld.c
+[22/110] ChibiOS: Compiling stm32_mdma.c
+[23/110] ChibiOS: Compiling hal_usb_lld.c
+[24/110] ChibiOS: Compiling hal_wspi_lld.c
+[25/110] ChibiOS: Compiling hal_trng_lld.c
+[26/110] ChibiOS: Compiling hal_rtc_lld.c
+[27/110] ChibiOS: Compiling hal_sdc_lld.c
+[28/110] ChibiOS: Compiling hal_spi_lld.c
+[29/110] ChibiOS: Compiling hal_st_lld.c
+[30/110] ChibiOS: Compiling hal_eicu_lld.c
+[31/110] ChibiOS: Compiling hal_gpt_lld.c
+[32/110] ChibiOS: Compiling hal_icu_lld.c
+[33/110] ChibiOS: Compiling hal_pwm_lld.c
+[34/110] ChibiOS: Compiling hal_serial_lld.c
+[35/110] ChibiOS: Compiling hal_sio_lld.c
+[36/110] ChibiOS: Compiling hal_uart_lld.c
+[37/110] ChibiOS: Compiling hal_wdg_lld.c
+[38/110] ChibiOS: Compiling hal_lld.c
+[39/110] ChibiOS: Compiling stm32_isr.c
+[40/110] ChibiOS: Compiling nvic.c
+[41/110] ChibiOS: Compiling hal.c
+[42/110] ChibiOS: Compiling hal_adc.c
+[43/110] ChibiOS: Compiling hal_buffers.c
+[44/110] ChibiOS: Compiling hal_can.c
+[45/110] ChibiOS: Compiling hal_crypto.c
+[46/110] ChibiOS: Compiling hal_dac.c
+[47/110] ChibiOS: Compiling hal_efl.c
+[48/110] ChibiOS: Compiling hal_eicu.c
+[49/110] ChibiOS: Compiling hal_flash.c
+[50/110] ChibiOS: Compiling hal_gpt.c
+[51/110] ChibiOS: Compiling hal_i2c.c
+[52/110] ChibiOS: Compiling hal_i2s.c
+[53/110] ChibiOS: Compiling hal_icu.c
+[54/110] ChibiOS: Compiling hal_mac.c
+[55/110] ChibiOS: Compiling hal_mmc_spi.c
+[56/110] ChibiOS: Compiling hal_mmcsd.c
+[57/110] ChibiOS: Compiling hal_pal.c
+[58/110] ChibiOS: Compiling hal_pwm.c
+[59/110] ChibiOS: Compiling hal_queues.c
+[60/110] ChibiOS: Compiling hal_rtc.c
+[61/110] ChibiOS: Compiling hal_sdc.c
+[62/110] ChibiOS: Compiling hal_serial.c
+[63/110] ChibiOS: Compiling hal_serial_usb.c
+[64/110] ChibiOS: Compiling hal_sio.c
+[65/110] ChibiOS: Compiling hal_spi.c
+[66/110] ChibiOS: Compiling hal_st.c
+[67/110] ChibiOS: Compiling hal_trng.c
+[68/110] ChibiOS: Compiling hal_uart.c
+[69/110] ChibiOS: Compiling hal_usb.c
+[70/110] ChibiOS: Compiling hal_wdg.c
+[71/110] ChibiOS: Compiling hal_wspi.c
+[72/110] ChibiOS: Compiling chdelegates.c
+[73/110] ChibiOS: Compiling chfactory.c
+[74/110] ChibiOS: Compiling chmboxes.c
+[75/110] ChibiOS: Compiling chmemcore.c
+[76/110] ChibiOS: Compiling chmemheaps.c
+[77/110] ChibiOS: Compiling chmempools.c
+[78/110] ChibiOS: Compiling chobjcaches.c
+[79/110] ChibiOS: Compiling chpipes.c
+[80/110] ChibiOS: Compiling chcond.c
+[81/110] ChibiOS: Compiling chdebug.c
+[82/110] ChibiOS: Compiling chdynamic.c
+[83/110] ChibiOS: Compiling chevents.c
+[84/110] ChibiOS: Compiling chinstances.c
+[85/110] ChibiOS: Compiling chmsg.c
+[86/110] ChibiOS: Compiling chmtx.c
+[87/110] ChibiOS: Compiling chregistry.c
+[88/110] ChibiOS: Compiling chrfcu.c
+[89/110] ChibiOS: Compiling chschd.c
+[90/110] ChibiOS: Compiling chsem.c
+[91/110] ChibiOS: Compiling chstats.c
+[92/110] ChibiOS: Compiling chsys.c
+[94/110] ChibiOS: Compiling chtm.c
+[93/110] ChibiOS: Compiling chthreads.c
+[95/110] ChibiOS: Compiling chtrace.c
+[96/110] ChibiOS: Compiling chvt.c
+[97/110] ChibiOS: Compiling syscalls.c
+[98/110] ChibiOS: Compiling stubs.c
+[99/110] ChibiOS: Compiling board.c
+[100/110] ChibiOS: Compiling usbcfg.c
+[101/110] ChibiOS: Compiling usbcfg_dualcdc.c
+[102/110] ChibiOS: Compiling usbcfg_common.c
+[103/110] ChibiOS: Compiling flash.c
+[104/110] ChibiOS: Compiling malloc.c
+[105/110] ChibiOS: Compiling hrt.c
+[106/110] ChibiOS: Compiling stm32_util.c
+[107/110] ChibiOS: Compiling bouncebuffer.c
+[108/110] ChibiOS: Compiling watchdog.c
+[109/110] ChibiOS: Compiling sysperf.c
+[110/110] ChibiOS: Compiling ch.cpp
+
+ChibiOS: Done!
+
+arm-none-eabi-ar: creating modules/ChibiOS/libch.a
+
+Not embedding bootloader; [LOCAL_BUILD_PATH] does not exist
+No target_list file found, creating
+Generating compile_commands.json
+Build commands will be stored in build/FCV2/compile_commands.json
+Generating compile_commands.json
+Build commands will be stored in build/FCV2/compile_commands.json
+[ 10/242] Compiling libraries/AP_HAL/utility/RCOutput_Tap.cpp
+[ 11/242] Compiling libraries/AP_HAL/Scheduler.cpp
+[ 12/242] Compiling libraries/AP_HAL/CANIface.cpp
+[ 13/242] Compiling libraries/AP_HAL/utility/sumd.cpp
+[ 14/242] Compiling libraries/AP_HAL/utility/BetterStream.cpp
+[ 15/242] Compiling libraries/AP_HAL/system.cpp
+[ 16/242] Compiling libraries/AP_HAL/utility/replace.cpp
+[ 17/242] Compiling libraries/AP_HAL/utility/srxl.cpp
+[ 18/242] Compiling libraries/AP_HAL/utility/ftoa_engine.cpp
+[ 19/242] Compiling libraries/AP_HAL/utility/getopt_cpp.cpp
+[ 20/242] Compiling libraries/AP_HAL/utility/st24.cpp
+[ 21/242] Compiling libraries/AP_HAL/DSP.cpp
+[ 22/242] Compiling libraries/AP_HAL/HAL.cpp
+[ 23/242] Compiling libraries/AP_HAL/utility/RCOutput_Tap_Linux.cpp
+[ 24/242] Compiling libraries/AP_HAL/Device.cpp
+[ 25/242] Compiling libraries/AP_HAL/utility/DataRateLimit.cpp
+[ 26/242] Compiling libraries/AP_HAL/Util.cpp
+[ 27/242] Compiling libraries/AP_HAL/Semaphores.cpp
+[ 28/242] Compiling libraries/AP_HAL/utility/RingBuffer.cpp
+[ 29/242] Compiling libraries/AP_HAL/utility/packetise.cpp
+[ 30/242] Compiling libraries/AP_HAL/utility/Socket.cpp
+[ 31/242] Compiling libraries/AP_HAL/GPIO.cpp
+[ 32/242] Compiling libraries/AP_HAL/utility/utoa_invert.cpp
+[ 33/242] Compiling libraries/AP_HAL/utility/print_vprintf.cpp
+[ 34/242] Compiling libraries/AP_HAL/Storage.cpp
+[ 35/242] Compiling libraries/AP_HAL/utility/Socket_native.cpp
+[ 36/242] Compiling libraries/AP_HAL/RCOutput.cpp
+[ 37/242] Compiling libraries/AP_HAL/utility/dsm.cpp
+[ 38/242] Compiling libraries/AP_HAL/UARTDriver.cpp
+[ 39/242] Compiling libraries/AP_HAL_ChibiOS/WSPIDevice.cpp
+[ 40/242] Compiling libraries/AP_HAL_ChibiOS/Semaphores.cpp
+[ 41/242] Compiling libraries/AP_HAL_ChibiOS/SoftSigReaderInt.cpp
+[ 42/242] Compiling libraries/AP_HAL_ChibiOS/RCOutput_serial.cpp
+[ 43/242] Compiling libraries/AP_HAL_ChibiOS/ap_setjmp.c
+[ 44/242] Compiling libraries/AP_HAL_ChibiOS/sdcard.cpp
+[ 45/242] Compiling libraries/AP_HAL_ChibiOS/SoftSigReader.cpp
+[ 46/242] Compiling libraries/AP_HAL_ChibiOS/shared_dma.cpp
+[ 47/242] Compiling libraries/AP_HAL_ChibiOS/stdio.cpp
+[ 48/242] Compiling libraries/AP_HAL_ChibiOS/UARTDriver.cpp
+[ 49/242] Compiling libraries/AP_HAL_ChibiOS/RCOutput_iofirmware.cpp
+[ 50/242] Compiling libraries/AP_HAL_ChibiOS/AnalogIn.cpp
+[ 51/242] Compiling libraries/AP_HAL_ChibiOS/CANFDIface.cpp
+[ 52/242] Compiling libraries/AP_HAL_ChibiOS/SPIDevice.cpp
+[ 53/242] Compiling libraries/AP_HAL_ChibiOS/Scheduler.cpp
+[ 54/242] Compiling libraries/AP_HAL_ChibiOS/RCOutput_bdshot.cpp
+[ 55/242] Compiling libraries/AP_HAL_ChibiOS/RCInput.cpp
+[ 56/242] Compiling libraries/AP_HAL_ChibiOS/CanIface.cpp
+[ 57/242] Compiling libraries/AP_HAL_ChibiOS/RCOutput.cpp
+[ 58/242] Compiling libraries/AP_HAL_ChibiOS/I2CDevice.cpp
+[ 59/242] Compiling libraries/AP_HAL_ChibiOS/DSP.cpp
+[ 60/242] Compiling libraries/AP_HAL_ChibiOS/Device.cpp
+[ 61/242] Compiling libraries/AP_HAL_ChibiOS/Util.cpp
+[ 62/242] Compiling libraries/AP_Scripting/AP_Scripting_SerialDevice.cpp
+[ 63/242] Compiling libraries/AP_Scripting/AP_Scripting_SerialAccess.cpp
+[ 64/242] Compiling libraries/AP_Scripting/AP_Scripting_CANSensor.cpp
+[ 65/242] Compiling libraries/AP_Scripting/AP_Scripting.cpp
+[ 66/242] Compiling libraries/AP_Scripting/lua/src/lbaselib.c
+[ 67/242] Compiling libraries/AP_Scripting/lua/src/lapi.c
+[ 68/242] Compiling libraries/AP_Scripting/lua/src/luac.c
+[ 69/242] Compiling libraries/AP_Scripting/lua/src/lstate.c
+[ 70/242] Compiling libraries/AP_Scripting/lua/src/ldump.c
+[ 71/242] Compiling libraries/AP_Scripting/lua/src/ldo.c
+[ 72/242] Compiling libraries/AP_Scripting/lua/src/ldebug.c
+[ 73/242] Compiling libraries/AP_Scripting/lua/src/ldblib.c
+[ 74/242] Compiling libraries/AP_Scripting/lua/src/lparser.c
+[ 75/242] Compiling libraries/AP_Scripting/lua/src/lauxlib.c
+[ 76/242] Compiling libraries/AP_Scripting/lua/src/lzio.c
+[ 77/242] Compiling libraries/AP_Scripting/lua/src/lutf8lib.c
+[ 78/242] Compiling libraries/AP_Scripting/lua/src/lvm.c
+[ 79/242] Compiling libraries/AP_Scripting/lua/src/lundump.c
+[ 80/242] Compiling libraries/AP_Scripting/lua/src/ltm.c
+[ 81/242] Compiling libraries/AP_Scripting/lua/src/lstring.c
+[ 82/242] Compiling libraries/AP_Scripting/lua/src/lcorolib.c
+[ 83/242] Compiling libraries/AP_Scripting/lua/src/ltablib.c
+[ 84/242] Compiling libraries/AP_Scripting/lua/src/lstrlib.c
+[ 85/242] Compiling libraries/AP_Scripting/lua/src/ltable.c
+[ 86/242] Compiling libraries/AP_Scripting/lua/src/lbitlib.c
+[ 87/242] Compiling libraries/AP_Scripting/lua/src/loslib.c
+[ 88/242] Compiling libraries/AP_Scripting/lua/src/lmem.c
+[ 89/242] Compiling libraries/AP_Scripting/lua/src/lfunc.c
+[ 90/242] Compiling libraries/AP_Scripting/lua/src/lua.c
+[ 91/242] Compiling libraries/AP_Scripting/lua/src/lopcodes.c
+[ 92/242] Compiling libraries/AP_Scripting/lua/src/loadlib.c
+[ 93/242] Compiling libraries/AP_Scripting/lua/src/lobject.c
+[ 94/242] Compiling libraries/AP_Scripting/lua/src/lmathlib.c
+[ 95/242] Compiling libraries/AP_Scripting/lua/src/liolib.c
+[ 96/242] Compiling libraries/AP_Scripting/lua/src/lgc.c
+[ 97/242] Compiling libraries/AP_Scripting/lua/src/llex.c
+[ 98/242] Compiling libraries/AP_Scripting/lua/src/lcode.c
+[ 99/242] Compiling libraries/AP_Scripting/lua/src/linit.c
+[100/242] Compiling libraries/AP_Scripting/lua/src/lctype.c
+[101/242] Compiling libraries/AP_Common/sorting.cpp
+[102/242] Compiling libraries/AP_Common/float16.cpp
+[103/242] Compiling libraries/AP_Common/AP_FWVersion.cpp
+[104/242] Compiling libraries/AP_Common/c++.cpp
+[105/242] Compiling libraries/AP_Common/NMEA.cpp
+[106/242] Compiling libraries/AP_Common/ExpandingString.cpp
+[107/242] Compiling libraries/AP_Common/Location.cpp
+[108/242] Compiling libraries/AP_Common/AP_ExpandingArray.cpp
+[109/242] Compiling libraries/AP_Common/AP_Common.cpp
+[110/242] Compiling libraries/AP_Common/time.cpp
+[111/242] Compiling libraries/AP_Math/polyfit.cpp
+[112/242] Compiling libraries/AP_Math/vector3.cpp
+[113/242] Compiling libraries/AP_Math/polygon.cpp
+[114/242] Compiling libraries/AP_Math/vector2.cpp
+[115/242] Compiling libraries/AP_Math/quaternion.cpp
+[116/242] Compiling libraries/AP_Math/spline5.cpp
+[117/242] Compiling libraries/AP_Math/matrix_alg.cpp
+[118/242] Compiling libraries/AP_Math/matrix3.cpp
+[119/242] Compiling libraries/AP_Math/control.cpp
+[120/242] Compiling libraries/AP_Math/matrixN.cpp
+[121/242] Compiling libraries/AP_Math/location_double.cpp
+[122/242] Compiling libraries/AP_Math/crc.cpp
+[123/242] Compiling libraries/AP_Math/location.cpp
+[124/242] Compiling libraries/AP_Math/chirp.cpp
+[125/242] Compiling libraries/AP_Math/AP_Math.cpp
+[126/242] Compiling libraries/AP_Math/AP_GeodesicGrid.cpp
+[127/242] Compiling libraries/AP_Math/SplineCurve.cpp
+[128/242] Compiling libraries/AP_Networking/AP_Networking_PPP.cpp
+[129/242] Compiling modules/lwip/src/netif/lowpan6.c
+[130/242] Compiling modules/lwip/src/netif/lowpan6_ble.c
+[131/242] Compiling modules/lwip/src/netif/ppp/multilink.c
+[132/242] Compiling libraries/AP_Networking/lwip_hal/arch/evtimer.c
+[133/242] Compiling modules/lwip/src/netif/ppp/utils.c
+[134/242] Compiling modules/lwip/src/netif/ppp/ppp.c
+[135/242] Compiling modules/lwip/src/netif/ppp/pppol2tp.c
+[136/242] Compiling libraries/AP_Networking/lwip_hal/arch/sys_arch.cpp
+[137/242] Compiling modules/lwip/src/netif/ppp/upap.c
+[138/242] Compiling modules/lwip/src/netif/ppp/ipv6cp.c
+[139/242] Compiling modules/lwip/src/netif/zepif.c
+[140/242] Compiling modules/lwip/src/core/ipv4/acd.c
+[141/242] Compiling modules/lwip/src/core/ipv4/autoip.c
+[142/242] Compiling modules/lwip/src/netif/ppp/ipcp.c
+[143/242] Compiling modules/lwip/src/core/tcp_out.c
+[144/242] Compiling modules/lwip/src/netif/ppp/pppos.c
+[145/242] Compiling modules/lwip/src/core/netif.c
+[146/242] Compiling modules/lwip/src/core/stats.c
+[147/242] Compiling modules/lwip/src/core/memp.c
+[148/242] Compiling modules/lwip/src/core/raw.c
+[149/242] Compiling modules/lwip/src/core/inet_chksum.c
+[150/242] Compiling modules/lwip/src/netif/ppp/eap.c
+[151/242] Compiling modules/lwip/src/core/altcp_alloc.c
+[152/242] Compiling modules/lwip/src/netif/ppp/pppapi.c
+[153/242] Compiling modules/lwip/src/core/altcp_tcp.c
+[154/242] Compiling modules/lwip/src/netif/ppp/mppe.c
+[155/242] Compiling modules/lwip/src/core/tcp_in.c
+[156/242] Compiling modules/lwip/src/core/altcp.c
+[157/242] Compiling modules/lwip/src/netif/ppp/magic.c
+[158/242] Compiling modules/lwip/src/netif/ppp/fsm.c
+[159/242] Compiling modules/lwip/src/netif/ppp/eui64.c
+[160/242] Compiling modules/lwip/src/netif/ppp/demand.c
+[161/242] Compiling modules/lwip/src/netif/ppp/ccp.c
+[162/242] Compiling modules/lwip/src/netif/ppp/auth.c
+[163/242] Compiling modules/lwip/src/api/if_api.c
+[164/242] Compiling modules/lwip/src/netif/lowpan6_common.c
+[165/242] Compiling modules/lwip/src/netif/bridgeif_fdb.c
+[166/242] Compiling modules/lwip/src/api/tcpip.c
+[167/242] Compiling modules/lwip/src/api/netifapi.c
+[168/242] Compiling modules/lwip/src/api/err.c
+[169/242] Compiling modules/lwip/src/api/api_msg.c
+[170/242] Compiling modules/lwip/src/api/api_lib.c
+[171/242] Compiling modules/lwip/src/core/ipv4/icmp.c
+[172/242] Compiling modules/lwip/src/core/ipv4/ip4_addr.c
+[173/242] Compiling modules/lwip/src/core/ipv4/etharp.c
+[174/242] Compiling modules/lwip/src/core/ipv4/dhcp.c
+[175/242] Compiling modules/lwip/src/core/udp.c
+[176/242] Compiling modules/lwip/src/core/tcp.c
+[177/242] Compiling modules/lwip/src/core/sys.c
+[178/242] Compiling modules/lwip/src/netif/ppp/chap_ms.c
+[179/242] Compiling modules/lwip/src/core/pbuf.c
+[180/242] Compiling modules/lwip/src/core/ip.c
+[181/242] Compiling modules/lwip/src/core/def.c
+[182/242] Compiling modules/lwip/src/core/init.c
+[183/242] Compiling libraries/AP_Networking/AP_Networking_macaddr.cpp
+[184/242] Compiling libraries/AP_Networking/AP_Networking_ChibiOS.cpp
+[185/242] Compiling libraries/AP_Networking/AP_Networking.cpp
+[186/242] Compiling libraries/AP_Networking/AP_Networking_CAN.cpp
+[187/242] Compiling modules/lwip/src/netif/ethernet.c
+[188/242] Compiling modules/lwip/src/netif/ppp/pppoe.c
+[189/242] Compiling modules/lwip/src/core/mem.c
+[190/242] Compiling modules/lwip/src/netif/ppp/vj.c
+[191/242] Compiling modules/lwip/src/netif/ppp/lcp.c
+[192/242] Compiling libraries/AP_Networking/AP_Networking_Backend.cpp
+[193/242] Compiling modules/lwip/src/core/dns.c
+[194/242] Compiling libraries/AP_Networking/AP_Networking_address.cpp
+[195/242] Compiling modules/lwip/src/core/timeouts.c
+[196/242] Compiling modules/lwip/src/netif/ppp/chap-new.c
+[197/242] Compiling modules/lwip/src/core/ipv4/ip4_frag.c
+[198/242] Compiling modules/lwip/src/core/ipv4/ip4.c
+[199/242] Compiling modules/lwip/src/api/sockets.c
+[200/242] Compiling modules/lwip/src/netif/ppp/chap-md5.c
+[201/242] Compiling modules/lwip/src/netif/ppp/ecp.c
+[202/242] Compiling modules/lwip/src/netif/ppp/pppcrypt.c
+[203/242] Compiling modules/lwip/src/netif/bridgeif.c
+[204/242] Compiling modules/lwip/src/api/netdb.c
+[205/242] Compiling modules/lwip/src/netif/slipif.c
+[206/242] Compiling libraries/AP_Networking/AP_Networking_port.cpp
+[207/242] Compiling modules/lwip/src/api/netbuf.c
+[208/242] Compiling libraries/AP_Networking/AP_Networking_tests.cpp
+[209/242] Compiling modules/lwip/src/core/ipv4/igmp.c
+[210/242] Compiling libraries/AP_ROMFS/tinflate.cpp
+[211/242] Compiling libraries/AP_ROMFS/AP_ROMFS.cpp
+[212/242] Compiling libraries/AP_CheckFirmware/AP_CheckFirmware.cpp
+[213/242] Compiling libraries/AP_CheckFirmware/AP_CheckFirmware_secure_command.cpp
+[214/242] Compiling libraries/AP_CheckFirmware/monocypher.cpp
+[215/242] Compiling libraries/AP_Math/SCurve.cpp
+[216/242] Compiling libraries/AP_HAL/SIMState.cpp
+[217/242] Compiling libraries/AP_HAL_ChibiOS/system.cpp
+[218/242] Compiling libraries/AP_HAL_ChibiOS/HAL_ChibiOS_Class.cpp
+[219/242] Compiling libraries/AP_HAL_ChibiOS/Storage.cpp
+[220/242] Compiling libraries/AP_HAL_ChibiOS/GPIO.cpp
+[221/242] Compiling build/FCV2/libraries/AP_Scripting/lua_generated_bindings.cpp
+[222/242] Compiling libraries/AP_Scripting/lua_bindings.cpp
+[223/242] Compiling libraries/AP_Scripting/AP_Scripting_helpers.cpp
+[224/242] Compiling libraries/AP_Scripting/lua_scripts.cpp
+[225/242] Compiling libraries/AP_Scripting/lua_boxed_numerics.cpp
+[226/242] Compiling libraries/AP_Scripting/AP_Scripting_CRSFMenu.cpp
+[227/242] Compiling modules/DroneCAN/libcanard/canard.c
+[228/242] Compiling Tools/AP_Bootloader/bl_protocol.cpp
+[229/242] Compiling Tools/AP_Bootloader/network.cpp
+[230/242] Compiling Tools/AP_Bootloader/custom.cpp
+[231/242] Compiling Tools/AP_Bootloader/can.cpp
+[232/242] Compiling Tools/AP_Bootloader/md5.cpp
+[233/242] Compiling Tools/AP_Bootloader/flash_from_sd.cpp
+[234/242] Compiling Tools/AP_Bootloader/AP_Bootloader.cpp
+[235/242] Compiling Tools/AP_Bootloader/support.cpp
+[236/242] Linking build/FCV2/Tools/AP_Bootloader/liblibcanard.a
+[237/242] Linking build/FCV2/lib/libAP_Bootloader_libs.a
+[238/242] Linking build/FCV2/bootloader/AP_Bootloader
+[239/242] Generating bin/AP_Bootloader.bin
+[240/242] checking symbols build/FCV2/bootloader/AP_Bootloader
+[241/242] apj_gen build/FCV2/bin/AP_Bootloader.bin
+[242/242] bin cleanup build/FCV2/bin/AP_Bootloader.bin
+Waf: Leaving directory `[LOCAL_BUILD_PATH]
+
+BUILD SUMMARY
+Build directory: [LOCAL_BUILD_PATH]
+Target                    Text (B)  Data (B)  BSS (B)  Total Flash Used (B)  Free Flash (B)  External Flash Used (B)
+--------------------------------------------------------------------------------------------------------------------
+bootloader/AP_Bootloader     18704        92    17444                 18796          112276  Not Applicable         
+
+'bootloader' finished successfully (29.657s)

@@ -1,0 +1,4 @@
+# Apply only after scope/logic-analyzer qualification with propellers removed.
+MOT_PWM_TYPE 5
+SERVO_BLH_BDMASK 15
+SERVO_DSHOT_ESC 1

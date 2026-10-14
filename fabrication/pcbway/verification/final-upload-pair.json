@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-14",
+  "bom": "FC_EVT1_PCBWAY-Turnkey-BOM.csv",
+  "placement": "FC_EVT1_PCBWAY-SMT-Centroid.csv",
+  "bom_rows": 69,
+  "bom_references": 114,
+  "placement_references": 113,
+  "BOM_only_references": [
+    "J12"
+  ],
+  "placement_only_references": [],
+  "duplicate_bom": false,
+  "duplicate_placement": false,
+  "status": "SMT reference set reconciled; BOM-only THT/manual exceptions require assembly instructions"
+}

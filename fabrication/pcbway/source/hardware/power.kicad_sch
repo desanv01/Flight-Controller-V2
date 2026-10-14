@@ -5,10 +5,10 @@
 	(uuid "b4112538-0d92-4df9-b556-22604565f847")
 	(paper "User" 584.2 279.4)
 	(title_block
-		(title "FC DRONE FC")
+		(title "Flight Controller V2")
 		(date "2026-09-13")
 		(rev "A")
-		(company "FC DRONE PROJECT")
+		(company "Desan Vasu")
 		(comment 1 "Derived from upstream commit 0a60da1 under CERN-OHL-S-2.0")
 		(comment 2 "POWER/OPENESC REDESIGN IMPLEMENTED - BENCH VALIDATION REQUIRED")
 	)

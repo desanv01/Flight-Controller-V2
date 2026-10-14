@@ -566,21 +566,21 @@ Next permitted phase:
 
 External sources checked for this guide:
 
-- [STLINK-V3SET UM2448, connector pinouts](http[LOCAL_SOURCE]
-- [STM32CubeProgrammer](http[LOCAL_SOURCE]
-- [Matek BEC12S-PRO specifications](http[LOCAL_SOURCE]
-- [ArduPilot motor/ESC connections](http[LOCAL_SOURCE]
-- [ArduPilot pre-arm checks](http[LOCAL_SOURCE]
-- [ArduPilot companion MAVLink connection](http[LOCAL_SOURCE] — its generic port/power examples are not this custom board's pin map.
-- [ArduPilot simple avoidance](http[LOCAL_SOURCE]
-- [Raspberry Pi camera hardware](http[LOCAL_SOURCE]
-- [Raspberry Pi AI HAT hardware](http[LOCAL_SOURCE]
-- [Raspberry Pi AI software and packaged YOLO demonstrations](http[LOCAL_SOURCE]
-- [Raspberry Pi UART configuration](http[LOCAL_SOURCE]
-- [ST SATEL data brief](http[LOCAL_SOURCE]
-- [ST SATEL schematic](http[LOCAL_SOURCE]
-- [ST Linux LiDAR driver](http[LOCAL_SOURCE]
-- [MAVLink OBSTACLE_DISTANCE specification](http[LOCAL_SOURCE]
+- [STLINK-V3SET UM2448, connector pinouts](https://www.st.com/resource/en/user_manual/um2448-stlinkv3set-debuggerprogrammer-for-stm8-and-stm32-stmicroelectronics.pdf)
+- [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
+- [Matek BEC12S-PRO specifications](https://www.mateksys.com/?portfolio=bec12s-pro)
+- [ArduPilot motor/ESC connections](https://ardupilot.org/copter/docs/connect-escs-and-motors.html)
+- [ArduPilot pre-arm checks](https://ardupilot.org/copter/docs/common-prearm-safety-checks.html)
+- [ArduPilot companion MAVLink connection](https://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html) — its generic port/power examples are not this custom board's pin map.
+- [ArduPilot simple avoidance](https://ardupilot.org/copter/docs/common-simple-object-avoidance.html)
+- [Raspberry Pi camera hardware](https://www.raspberrypi.com/documentation/accessories/camera.html)
+- [Raspberry Pi AI HAT hardware](https://www.raspberrypi.com/documentation/accessories/ai-hat-plus.html)
+- [Raspberry Pi AI software and packaged YOLO demonstrations](https://www.raspberrypi.com/documentation/computers/ai.html)
+- [Raspberry Pi UART configuration](https://www.raspberrypi.com/documentation/computers/configuration.html#configuring-uarts)
+- [ST SATEL data brief](https://www.st.com/resource/en/data_brief/vl53l5cx-satel.pdf)
+- [ST SATEL schematic](https://www.st.com/resource/en/schematic_pack/vl53l5cx-satel-schematics.pdf)
+- [ST Linux LiDAR driver](https://www.st.com/en/embedded-software/stsw-img025.html)
+- [MAVLink OBSTACLE_DISTANCE specification](https://mavlink.io/en/messages/common.html#OBSTACLE_DISTANCE)
 
 Local evidence, relative to this guide's directory:
 

@@ -2,12 +2,12 @@
 <export version="E">
   <design>
     <source>[LOCAL_SOURCE] DRONE PROJECT\PUBLICATION_WORK\Flight-Controller-V2\fabrication\pcbway\source\hardware\Flight Controller.kicad_sch</source>
-    <date>2026-10-14T18:07:00</date>
+    <date>2026-10-14T18:25:38</date>
     <tool>Eeschema 10.0.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>Flight Controller.kicad_sch</source>
@@ -24,8 +24,8 @@
     </sheet>
     <sheet number="2" name="/Power/" tstamps="/4a7cbebd-f698-4bee-b98f-1e10a25991ff/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>power.kicad_sch</source>
@@ -42,8 +42,8 @@
     </sheet>
     <sheet number="3" name="/MCU/" tstamps="/8463a60f-8f72-494c-88d1-488c894f8e30/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>MCU.kicad_sch</source>
@@ -60,8 +60,8 @@
     </sheet>
     <sheet number="4" name="/Sensors and Peripherals/" tstamps="/cba678f1-cd76-4d72-9114-2cc1e511120c/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>Sensors.kicad_sch</source>
@@ -78,8 +78,8 @@
     </sheet>
     <sheet number="5" name="/Connectors/" tstamps="/a99ea3ed-fb5b-48bc-9f0d-b1d710dec9ab/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>connectors.kicad_sch</source>

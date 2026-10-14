@@ -1,0 +1,80 @@
+Setting top to                           : [LOCAL_BUILD_PATH] 
+Setting out to                           : [LOCAL_BUILD_PATH] 
+Autoconfiguration                        : enabled 
+Checking for program 'python'            : /usr/bin/python3 
+Checking for python version >= 3.8.0     : 3.12.3 
+Setting board to                         : FCV2 
+Using toolchain                          : arm-none-eabi 
+Checking for 'g++' (C++ compiler)        : /usr/lib/ccache/arm-none-eabi-g++ 
+Checking for 'gcc' (C compiler)          : /usr/lib/ccache/arm-none-eabi-gcc 
+Checking for c flags '-MMD'              : yes 
+Checking for cxx flags '-MMD'            : yes 
+Checking for program 'arm-none-eabi-nm'  : /opt/gcc-arm-none-eabi-10/bin/arm-none-eabi-nm 
+CXX Compiler                             : g++ 10.2.1 
+Checking for program 'make'              : /usr/bin/make 
+Checking for program 'arm-none-eabi-objcopy' : /opt/gcc-arm-none-eabi-10/bin/arm-none-eabi-objcopy 
+Processing [LOCAL_BUILD_PATH]
+Setup for MCU STM32H743xx
+Writing hwdef setup in [LOCAL_BUILD_PATH]
+MCU Flags: cortex-m7 ['-mcpu=cortex-m7', '-mfpu=fpv5-d16', '-mfloat-abi=hard']
+Writing DMA map
+Setting up as bootloader
+Generating ldscript.ld
+env set ENABLE_DFU_BOOT=0
+env set PROCESS_STACK=0x1C00
+env set MAIN_STACK=0x600
+env set IOMCU_FW=0
+env set IOMCU_FW_WITH_HEATER=0
+env set PERIPH_FW=0
+env set BOARD_FLASH_SIZE=2048
+env set EXT_FLASH_SIZE_MB=0
+env set INT_FLASH_PRIMARY=False
+env set ENABLE_CRASHDUMP=False
+env set CPU_FLAGS=['-mcpu=cortex-m7', '-mfpu=fpv5-d16', '-mfloat-abi=hard']
+env set CORTEX=cortex-m7
+env set APJ_BOARD_ID=1241
+env set APJ_BOARD_TYPE=STM32H743xx
+env set USBID=0x1209/0x5741
+env set FLASH_RESERVE_START_KB=0
+env set EXT_FLASH_RESERVE_START_KB=0
+env set FLASH_TOTAL=131072
+env set HAS_EXTERNAL_FLASH_SECTIONS=0
+env set ROMFS_FILES=[('hwdef.dat', '[LOCAL_BUILD_PATH]
+env set CHIBIOS_BUILD_FLAGS=USE_FATFS=no CHIBIOS_STARTUP_MK=os/common/startup/ARMCMx/compilers/GCC/mk/startup_stm32h7xx.mk CHIBIOS_PLATFORM_MK=os/hal/ports/STM32/STM32H7xx/platform.mk MCU=cortex-m7
+Enabling ChibiOS asserts                     : no 
+Disabling Watchdog                           : no 
+Enabling malloc guard                        : no 
+Enabling ChibiOS thread statistics           : no 
+Enabling -Werror                             : yes 
+Checking for intelhex module:                : OK 
+Enabled OpenDroneID                          : no 
+Enabled firmware ID checking                 : no 
+GPS Debug Logging                            : no 
+Enabled custom controller                    : no 
+Checking for HAVE_CMATH_ISFINITE             : yes 
+Checking for HAVE_CMATH_ISINF                : yes 
+Checking for HAVE_CMATH_ISNAN                : yes 
+Checking for NEED_CMATH_ISFINITE_STD_NAMESPACE : yes 
+Checking for NEED_CMATH_ISINF_STD_NAMESPACE    : yes 
+Checking for NEED_CMATH_ISNAN_STD_NAMESPACE    : yes 
+Checking for header endian.h                   : not found 
+Checking for header byteswap.h                 : not found 
+Checking for HAVE_MEMRCHR                      : no 
+Configured VSCode Intellisense:                : no 
+DC_DSDL compiler in                            : [LOCAL_BUILD_PATH] 
+Source is git repository                       : yes 
+Update submodules                              : yes 
+Checking for program 'git'                     : /usr/bin/git 
+Gtest                                          : STM32 boards currently don't support compiling gtest 
+Checking for program 'arm-none-eabi-size'      : /opt/gcc-arm-none-eabi-10/bin/arm-none-eabi-size 
+Benchmarks                                     : disabled 
+Unit tests                                     : disabled 
+Scripting                                      : disabled 
+Scripting runtime checks                       : enabled 
+Debug build                                    : disabled 
+Coverage build                                 : disabled 
+Consistent build                               : disabled 
+Force 32-bit build                             : disabled 
+Checking for program 'rsync'                   : not found 
+Removing target_list file [LOCAL_BUILD_PATH]
+'configure' finished successfully (2.430s)

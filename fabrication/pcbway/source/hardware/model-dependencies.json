@@ -1,0 +1,21 @@
+{
+  "local_models": [
+    "3D models/(HSE)OSC-SMD_4P-L3.2-W2.5-CJ13-320001210A20.step",
+    "3D models/(zener)SOD-123FL_L2.8-W1.8-LS3.7-RD-1.step",
+    "3D models/4pconnector1mm.step",
+    "3D models/8pconn.step",
+    "3D models/AO3407A.step",
+    "3D models/AP7343 .step",
+    "3D models/AT7456E.step",
+    "3D models/BMI270.step",
+    "3D models/BMP388.step",
+    "3D models/FC_washer_double_sided_2mm.step",
+    "3D models/ICM-42688-P.step",
+    "3D models/IND-SMD_L5.4-W5.2-H3.0.step",
+    "3D models/USB4110GFA.step",
+    "3D models/W25Q128JVSIQ.step",
+    "FC_3D.3dshapes/Molex_105311-1202.step"
+  ],
+  "missing_local_models": [],
+  "standard_model_variable": "KICAD10_3DMODEL_DIR"
+}

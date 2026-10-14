@@ -1,0 +1,19 @@
+{
+  "status": "SUCCESS",
+  "date": "2026-10-14",
+  "target": "FCV2",
+  "upstream_tag": "Copter-4.7.1",
+  "source_sha": "dbe792162d06cab66c3475fd5556bf7a120f119e",
+  "image": "ardupilot/ardupilot-dev-chibios:v0.2.0",
+  "image_digest": "sha256:8bb0f850fb3fe1c170cb12dd577ab64f3708be8a828f9eafd28d73559766e81f",
+  "board_id": 1241,
+  "board_id_status": "local development; not upstream-reserved",
+  "binaries": {
+    "arducopter.apj": "cb32ec56d200029e046464a39302d651689243f6b6a69d49a4e90cfb4f9ff98d",
+    "arducopter.bin": "c62187cb03442fe1764abc4a585ccedc7912fa0daff56034434b9b1fa0503673",
+    "FCV2_bl.bin": "5915b12bc9f6ca9a31f835ea87a026e5bf8ad24668ae438ff954d583dc2fb68d"
+  },
+  "uncompressed_apj_image_sha256": "c62187cb03442fe1764abc4a585ccedc7912fa0daff56034434b9b1fa0503673",
+  "identity_scan": "PASS including decompressed APJ payload",
+  "runtime_qualification": "pending"
+}

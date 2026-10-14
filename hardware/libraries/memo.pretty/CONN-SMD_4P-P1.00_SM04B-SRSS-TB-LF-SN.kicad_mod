@@ -1,0 +1,334 @@
+(footprint "CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.5625 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c8456724-875e-49ce-adf9-89ca073da025")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN"
+		(at 0 5.94 0)
+		(layer "F.Fab")
+		(uuid "627e5299-7c02-409a-8b63-6c90a52c15d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b278bae-7be4-4bbc-b6bf-d6784c1762f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "JST-SH 4-position horizontal SMT header, 1.0 mm"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a14a758b-d7d9-42a5-b298-fee34912b54d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Link" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "779de19e-b072-4c26-9c15-e123f5b4aea3")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Manufacturer" "JST"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "249dbe64-f97f-4775-a22c-d7ce86658f97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MPN" "SM04B-SRSS-TB(LF)(SN)"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "39f57157-9457-474d-8dc1-f7053e3aa7a9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Tolerance" "N/A"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d204d5d1-12f7-42b1-ac65-04f7b8288145")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Voltage Rating" "50 V"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a44100f3-350f-4085-a599-c9c80a213434")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Power Rating" "1 A/contact"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "908e7d2f-fd9d-43e4-b665-0e4d26b2caaa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Technology" "Connector"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "4c7112c8-768e-40ec-a2b4-dd1ae3c08c45")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Temperature Rating" "-25..85 C"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "8f98975f-c610-47b2-ba1e-f8660e1e7c7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Lifecycle" "Active"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ea17c888-e994-47e3-ad02-e4d8f667001e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Approved Distributor" "DigiKey"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "b290c1a6-3238-4bd7-b4fb-7ac1ee760719")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Distributor Part Number" "See sourcing URL"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "cf364f17-8e26-4289-93fe-98e0fce50650")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Sourcing URL" "https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "694c6163-5841-4e0e-933e-2b74cece1a20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PCBWay Sourcing Note" "PCBWay turnkey; exact MPN"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "21d7593e-4f0f-4941-a056-860e1ca36ba6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Substitution Policy" "NO SUBSTITUTE without written approval"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a12a0878-bec3-4e59-9091-a1747544ff1d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "DNP Status" "POPULATE"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "c8573c6d-4788-4ad2-ae43-543bb683c3f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property ki_fp_filters "Connector*:*_1x??_*")
+	(sheetname "/Connectors/")
+	(sheetfile "connectors.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -1.54 -2.38)
+		(end -1.39 -2.38)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "d36f4a45-55f5-4edc-b8e5-78e3dcb8e55f")
+	)
+	(fp_circle
+		(center -3 -2.46)
+		(end -2.97 -2.46)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "b14c4347-86d7-4a03-bc89-621ad870eceb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "1a446866-37b9-45bd-b707-2b8afebe659c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.5 -1.94)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8bcee755-ea2f-4846-b7ad-15fa1a7a09c1")
+	)
+	(pad "2" smd rect
+		(at -0.5 -1.94)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "be738952-719c-448b-af8c-5976ebeb902f")
+	)
+	(pad "3" smd rect
+		(at 0.5 -1.94)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4718544d-f7de-4639-b6a2-031d573f7722")
+	)
+	(pad "4" smd rect
+		(at 1.5 -1.94)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "462bd2aa-84e4-4b59-badf-f2126e3baa6c")
+	)
+	(pad "5" smd rect
+		(at 2.8 1.94)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "53f2942e-df10-4e61-8ab5-f3e4662951ad")
+	)
+	(pad "6" smd rect
+		(at -2.8 1.94)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "937ac658-7cb9-4e96-b5ae-2a415e411ad1")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D models/4pconnector1mm.step"
+		(offset
+			(xyz -1.5 -0.5 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,348 @@
+(footprint "(zener)SOD-123F_L2.8-W1.8-LS3.7-RD"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ba856e39-dddf-40b1-97a5-02a06065a8b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "(zener)SOD-123F_L2.8-W1.8-LS3.7-RD"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "607f8244-c3c6-42cb-b5a1-3463745727d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/product-detail/Others_Diodes-Incorporated_BZT52C12-13-F_Diodes-Incorporated-BZT52C12-13-F_C177013.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b68ad88-0907-462c-9979-645f092556dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "12 V 500 mW Zener, SOD-123F"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1bed1795-0712-478c-9e1b-8c949fe36af8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C177013"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3acd721f-b773-4e9e-a8b0-e90576324a14")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Manufacturer" "Diodes Incorporated"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "43200d3e-78e5-4188-a68b-cd2dc5add848")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MPN" "BZT52C12-13-F"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "6df96bf4-2434-49d1-b56a-793768e314ce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Tolerance" "+/-5%"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "1eac0cb0-90d3-4e06-915e-df2ca2ee6df1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Voltage Rating" "12 V"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "631b21d3-e5a6-4e46-b9eb-43afd015ed82")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Power Rating" "500 mW"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "924ccd57-8f57-433f-9892-d17736af5522")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Technology" "Zener diode"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "9c7b5e56-570b-467d-a829-d390548277a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Temperature Rating" "-65..150 C"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0d79831b-b4ce-4b45-9f81-9da04511d67c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Lifecycle" "Active"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0b145665-66b2-428e-93a6-329f6984a5db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Approved Distributor" "DigiKey"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "e6ad17ee-27e6-4929-a33b-2a84cd36ca13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Distributor Part Number" "See sourcing URL"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "dc116217-5569-4273-ba33-a8f0af5e3a8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Sourcing URL" "https://www.digikey.com/en/products/result?keywords=BZT52C12-13-F"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "facb703e-8fce-4819-963a-1a1732ca0cc7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PCBWay Sourcing Note" "PCBWay turnkey; exact MPN"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "112151a7-c5b3-48f2-b247-b24f8d63c170")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Substitution Policy" "Equivalent only with written approval"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "32700901-94a8-4dcc-ad74-b565cc8928ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "DNP Status" "POPULATE"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ddfed7d2-482f-4b97-9f1c-4804d547c5c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(sheetname "/Power/")
+	(sheetfile "power.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.76 0)
+		(end 0.76 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c1fe34c0-7c36-460f-af01-49572a4a4d5f")
+	)
+	(fp_line
+		(start -0.51 -0.5)
+		(end -0.51 0.51)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7144146e-b583-4d86-9c7a-a78de280ddf6")
+	)
+	(fp_line
+		(start -0.51 0)
+		(end 0.51 -0.4)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "627dfaba-f817-4efd-9039-5d6dca94fc0c")
+	)
+	(fp_line
+		(start 0.51 -0.4)
+		(end 0.51 0.41)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d85c1131-2be1-4cf5-87a7-5abf86b8948c")
+	)
+	(fp_line
+		(start 0.51 0.41)
+		(end -0.51 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc947781-fe25-4c41-b962-1305e4614b2a")
+	)
+	(fp_circle
+		(center -1.85 0.85)
+		(end -1.82 0.85)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "780c79c3-16ee-4936-b52d-d9acef36b32a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "bda34acc-8507-48cc-bc40-6d0890f24cf7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.65 0)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ad6869a9-fdda-47aa-8bb0-dc62be9347d9")
+	)
+	(pad "2" smd rect
+		(at 1.65 0)
+		(size 1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5e3ad11b-b404-425c-84dd-e1ef7ebab5c4")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D models/(zener)SOD-123FL_L2.8-W1.8-LS3.7-RD-1.step"
+		(offset
+			(xyz 0 0.01 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

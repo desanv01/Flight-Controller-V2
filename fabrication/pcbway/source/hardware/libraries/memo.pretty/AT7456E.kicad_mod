@@ -1,0 +1,495 @@
+(footprint "AT7456E"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -6.87 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a423b9fe-afa1-4d13-900d-dd573b55c83d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AT7456E"
+		(at 0 6.87 0)
+		(layer "F.Fab")
+		(uuid "4147ea9d-483d-4dca-a537-84a0f6667fbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://lcsc.com/product-detail/Analog-ICs_AT7456E_C82351.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92aac1e7-64b3-4d30-9d46-8e49c0b5cc06")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Monochrome OSD generator, TSSOP-28 exposed pad"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5242a48-e235-410d-8e12-36dfa2852bfc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part" "C82351"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6576b868-9e57-433b-8192-3146e6af80c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Link" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6765aae9-db11-4f15-ba3c-194a33b46af2")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.125)
+			)
+		)
+	)
+	(property "Manufacturer" "ZHONGKEWEI"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f9053e8d-4e5f-4d8f-839b-dde25f99cc9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MPN" "AT7456E"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "bf9bb044-3ad2-425d-b808-d1c04089ca4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Tolerance" "N/A"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "740c6a8b-f852-4579-bab3-441d2ab2d2aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Voltage Rating" "Per datasheet"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ff0bebf8-145e-408e-a2ba-543ad451b63a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Power Rating" "N/A"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "4ee9b4bd-5000-4611-be14-7f577926d6fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Technology" "Integrated circuit"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "9ec12fc6-6b1c-4758-a69c-76162a3c1b02")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Temperature Rating" "-40..85 C minimum"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "243111fd-a1ff-445d-974a-a6a01178fe3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Lifecycle" "Active"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d25fec34-2c24-41ec-a06e-74bfac9b825c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Approved Distributor" "LCSC"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "8b6d9ca7-8409-49fd-9eb1-55041e627d5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Distributor Part Number" "C82351"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "b1185a63-f87a-43d3-914c-be4ea19b9094")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Sourcing URL" "https://www.lcsc.com/product-detail/C82351.html"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "9f8452e8-7772-457a-9ac8-a1b45793a09c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PCBWay Sourcing Note" "PCBWay turnkey; exact MPN"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "896c05f8-756a-4dc9-a51f-4343ffc2f4d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Substitution Policy" "NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "7840b3d3-2cc7-4594-97bc-2f31417a97d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "DNP Status" "POPULATE"
+		(at 0 0 90)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d4edbb11-0451-4cd7-97ff-4f7979bfe16c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(sheetname "/Sensors and Peripherals/")
+	(sheetfile "Sensors.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -4.23 1.02)
+		(end -4.08 1.02)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "28426669-9ba6-475b-9b72-27ec899fe80b")
+	)
+	(fp_circle
+		(center -4.23 3.6)
+		(end -4.08 3.6)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "f4543f20-ee5b-441a-ab39-5a5a8b59d868")
+	)
+	(fp_circle
+		(center -4.85 3.2)
+		(end -4.82 3.2)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "12e3aa8f-59c1-421f-822f-acbee6856f9f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "9510892c-336b-4412-b853-f18082ced7bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd oval
+		(at -4.23 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b3ee3ad9-6aaf-4503-b914-8693eb4d67df")
+	)
+	(pad "2" smd oval
+		(at -3.58 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4f6cde4f-c96b-4c65-af21-7a7a718228e0")
+	)
+	(pad "3" smd oval
+		(at -2.93 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6383b027-a0a5-4bbb-9b58-cb279c090946")
+	)
+	(pad "4" smd oval
+		(at -2.28 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "dda64a73-dc96-4904-9013-4ac1f0df087a")
+	)
+	(pad "5" smd oval
+		(at -1.63 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8ba380d1-f9e9-4f24-a346-eef80aae0885")
+	)
+	(pad "6" smd oval
+		(at -0.98 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ae7ffa09-1dfd-4cdf-a641-893d506fb460")
+	)
+	(pad "7" smd oval
+		(at -0.32 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d970cc49-ae42-47fe-bcf8-2e4eabe07d13")
+	)
+	(pad "8" smd oval
+		(at 0.33 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fc7fc227-fb76-422b-bbfe-a473b6cf5f4b")
+	)
+	(pad "9" smd oval
+		(at 0.98 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "01b51ef7-52e5-4bd4-9042-b6600d21149d")
+	)
+	(pad "10" smd oval
+		(at 1.63 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bbab7996-19ab-45e4-a53c-2938c95ab598")
+	)
+	(pad "11" smd oval
+		(at 2.28 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fce7e3d5-e8ae-44b4-943b-b825c0510e6a")
+	)
+	(pad "12" smd oval
+		(at 2.93 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a0ecb9db-fbf5-449c-b3f9-d5af524e5894")
+	)
+	(pad "13" smd oval
+		(at 3.58 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "06acd8a0-d1b8-4009-b435-c0a8abd61df8")
+	)
+	(pad "14" smd oval
+		(at 4.23 2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "813c2c75-9673-4a78-abe5-34be07913a5b")
+	)
+	(pad "15" smd oval
+		(at 4.23 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e75b8f02-0d82-4214-90e7-f44ff205d615")
+	)
+	(pad "16" smd oval
+		(at 3.58 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0db55939-9c0c-4487-bab9-c8d071fba6e2")
+	)
+	(pad "17" smd oval
+		(at 2.93 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c50f11e7-5d21-4038-ac01-ddee31b92de0")
+	)
+	(pad "18" smd oval
+		(at 2.28 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2fe4dc4c-9fec-47fb-9f31-e07be3c28aca")
+	)
+	(pad "19" smd oval
+		(at 1.63 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "943f43ee-e273-4c31-adba-8a2d96b2d332")
+	)
+	(pad "20" smd oval
+		(at 0.98 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9a412cf2-42f0-4d16-a808-39fcc81ffc14")
+	)
+	(pad "21" smd oval
+		(at 0.33 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e8085bd4-c938-43bc-ab48-bd7b0605c8b7")
+	)
+	(pad "22" smd oval
+		(at -0.32 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ea40af16-c51c-4871-9e02-3df1af55f5c2")
+	)
+	(pad "23" smd oval
+		(at -0.98 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fd01d52d-bb07-49c2-a4e1-c90048c3c25b")
+	)
+	(pad "24" smd oval
+		(at -1.63 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8f0a6285-4da6-402d-a514-0c8d3ec12465")
+	)
+	(pad "25" smd oval
+		(at -2.28 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "138af6a9-3ba0-4f9a-8420-b38844fde1ba")
+	)
+	(pad "26" smd oval
+		(at -2.93 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "586cee1f-a76d-4cb1-b7b8-c226feb9ca16")
+	)
+	(pad "27" smd oval
+		(at -3.58 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "89cea36b-d404-44c3-ad55-18be0aa90588")
+	)
+	(pad "28" smd oval
+		(at -4.23 -2.87)
+		(size 0.34 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a12db2f9-bd1c-4208-8aaa-492a7dbc56c4")
+	)
+	(pad "29" smd rect
+		(at 0 0)
+		(size 6.7 2.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a3029e25-ffb0-42d0-923a-931c448137e3")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D models/AT7456E.step"
+		(offset
+			(xyz 0 0 -0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

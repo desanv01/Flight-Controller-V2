@@ -2,12 +2,12 @@
 <export version="E">
   <design>
     <source>[LOCAL_SOURCE] DRONE PROJECT\PUBLICATION_WORK\Flight-Controller-V2\hardware\Flight Controller.kicad_sch</source>
-    <date>2026-10-14T18:04:45</date>
+    <date>2026-10-14T18:24:38</date>
     <tool>Eeschema 10.0.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>Flight Controller.kicad_sch</source>
@@ -24,8 +24,8 @@
     </sheet>
     <sheet number="2" name="/Power/" tstamps="/4a7cbebd-f698-4bee-b98f-1e10a25991ff/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>power.kicad_sch</source>
@@ -42,8 +42,8 @@
     </sheet>
     <sheet number="3" name="/MCU/" tstamps="/8463a60f-8f72-494c-88d1-488c894f8e30/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>MCU.kicad_sch</source>
@@ -60,8 +60,8 @@
     </sheet>
     <sheet number="4" name="/Sensors and Peripherals/" tstamps="/cba678f1-cd76-4d72-9114-2cc1e511120c/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>Sensors.kicad_sch</source>
@@ -78,8 +78,8 @@
     </sheet>
     <sheet number="5" name="/Connectors/" tstamps="/a99ea3ed-fb5b-48bc-9f0d-b1d710dec9ab/">
       <title_block>
-        <title>FC DRONE FC</title>
-        <company>FC DRONE PROJECT</company>
+        <title>Flight Controller V2</title>
+        <company>Desan Vasu</company>
         <rev>A</rev>
         <date>2026-09-13</date>
         <source>connectors.kicad_sch</source>
@@ -112,7 +112,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188R6YA106MA73D/5877456</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval; verify 6S DC-bias derating</field>
         <field name="DNP Status">POPULATE</field>
@@ -132,7 +132,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188R6YA106MA73D/5877456"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval; verify 6S DC-bias derating"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -167,7 +167,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -187,7 +187,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -222,7 +222,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188R6YA106MA73D/5877456</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval; verify 6S DC-bias derating</field>
         <field name="DNP Status">POPULATE</field>
@@ -242,7 +242,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188R6YA106MA73D/5877456"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval; verify 6S DC-bias derating"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -277,7 +277,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=C2012X5R1V226M125AC</field>
         <field name="PCBWay Sourcing Note">PCBWay exact-MPN quotation</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval; verify 6S DC-bias derating</field>
         <field name="DNP Status">POPULATE</field>
@@ -297,7 +297,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=C2012X5R1V226M125AC"/>
       <property name="PCBWay Sourcing Note" value="PCBWay exact-MPN quotation"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval; verify 6S DC-bias derating"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -332,7 +332,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -352,7 +352,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -387,7 +387,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval and DC-bias review</field>
         <field name="DNP Status">POPULATE</field>
@@ -407,7 +407,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval and DC-bias review"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -442,7 +442,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval and DC-bias review</field>
         <field name="DNP Status">POPULATE</field>
@@ -462,7 +462,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval and DC-bias review"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -497,7 +497,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM1555C1H750JA01D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -517,7 +517,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM1555C1H750JA01D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -552,7 +552,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R61A475MEAAD</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -572,7 +572,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R61A475MEAAD"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -607,7 +607,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188R6YA106MA73D/5877456</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval; verify 6S DC-bias derating</field>
         <field name="DNP Status">POPULATE</field>
@@ -627,7 +627,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188R6YA106MA73D/5877456"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval; verify 6S DC-bias derating"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -752,7 +752,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval and DC-bias review</field>
         <field name="DNP Status">POPULATE</field>
@@ -772,7 +772,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval and DC-bias review"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -807,7 +807,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval and DC-bias review</field>
         <field name="DNP Status">POPULATE</field>
@@ -827,7 +827,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval and DC-bias review"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -862,7 +862,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -882,7 +882,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -917,7 +917,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -937,7 +937,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -972,7 +972,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R61C475KE11D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -992,7 +992,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R61C475KE11D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1027,7 +1027,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1047,7 +1047,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1069,7 +1069,7 @@
     <comp ref="D1">
       <value>SMF26A</value>
       <footprint>Diode_SMD:D_SMF</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://www.vishay.com/doc?85881</datasheet>
       <description>26 V standoff 200 W TVS, SMF</description>
       <fields>
         <field name="Link"/>
@@ -1083,12 +1083,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SMF26A-E3-08</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Diode_SMD:D_SMF</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.vishay.com/doc?85881</field>
         <field name="Description">26 V standoff 200 W TVS, SMF</field>
       </fields>
       <libsource lib="Diode" part="SMF26A" description="200W unidirectional Transil Transient Voltage Suppressor, 26Vrwm, SMF"/>
@@ -1103,7 +1103,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SMF26A-E3-08"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1125,7 +1125,7 @@
     <comp ref="D2">
       <value>BZT52C12-13-F</value>
       <footprint>memo:(zener)SOD-123F_L2.8-W1.8-LS3.7-RD</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://lcsc.com/product-detail/Others_Diodes-Incorporated_BZT52C12-13-F_Diodes-Incorporated-BZT52C12-13-F_C177013.html</datasheet>
       <description>12 V 500 mW Zener, SOD-123F</description>
       <fields>
         <field name="LCSC Part">C177013</field>
@@ -1139,12 +1139,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=BZT52C12-13-F</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">memo:(zener)SOD-123F_L2.8-W1.8-LS3.7-RD</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/Others_Diodes-Incorporated_BZT52C12-13-F_Diodes-Incorporated-BZT52C12-13-F_C177013.html</field>
         <field name="Description">12 V 500 mW Zener, SOD-123F</field>
       </fields>
       <libsource lib="zener" part="BZT52C12-13-F" description=""/>
@@ -1159,7 +1159,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=BZT52C12-13-F"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1193,7 +1193,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1214,7 +1214,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1250,7 +1250,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1271,7 +1271,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1299,10 +1299,10 @@
         <field name="Description_1">USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle</field>
         <field name="Package">None</field>
         <field name="Price">None</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=snap</field>
         <field name="MP">USB4110GFA</field>
         <field name="Availability">In Stock</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=eda</field>
         <field name="Link"/>
         <field name="Manufacturer">GCT</field>
         <field name="MPN">USB4110-GF-A</field>
@@ -1314,7 +1314,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/gct/USB4110-GF-A/10384547</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1327,10 +1327,10 @@
       <property name="Description_1" value="USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle"/>
       <property name="Package" value="None"/>
       <property name="Price" value="None"/>
-      <property name="SnapEDA_Link" value="http[LOCAL_SOURCE]"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=snap"/>
       <property name="MP" value="USB4110GFA"/>
       <property name="Availability" value="In Stock"/>
-      <property name="Check_prices" value="http[LOCAL_SOURCE]"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=eda"/>
       <property name="Link" value=""/>
       <property name="Manufacturer" value="GCT"/>
       <property name="MPN" value="USB4110-GF-A"/>
@@ -1342,7 +1342,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/gct/USB4110-GF-A/10384547"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1418,7 +1418,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">Coilcraft / Mouser</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.coilcraft.com/en-us/products/power/shielded-inductors/molded-inductor/xal/xal50xx/xal5050-153/</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1438,7 +1438,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="Coilcraft / Mouser"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.coilcraft.com/en-us/products/power/shielded-inductors/molded-inductor/xal/xal50xx/xal5050-153/"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1460,7 +1460,7 @@
     <comp ref="Q1">
       <value>AO3407A</value>
       <footprint>memo:AO3407A</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://lcsc.com/product-detail/MOSFET_AOS_AO3407A_AO3407A_C15155.html</datasheet>
       <description>P-channel 30 V MOSFET, SOT-23</description>
       <fields>
         <field name="LCSC Part">C15155</field>
@@ -1475,12 +1475,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=AO3407A</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">memo:AO3407A</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/MOSFET_AOS_AO3407A_AO3407A_C15155.html</field>
         <field name="Description">P-channel 30 V MOSFET, SOT-23</field>
       </fields>
       <libsource lib="AO3407A" part="AO3407A" description=""/>
@@ -1496,7 +1496,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=AO3407A"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1530,7 +1530,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-075K1L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1550,7 +1550,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-075K1L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1585,7 +1585,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-07100KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1605,7 +1605,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-07100KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1640,7 +1640,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1660,7 +1660,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1695,7 +1695,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1715,7 +1715,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1750,7 +1750,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-077K15L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1770,7 +1770,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-077K15L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1805,7 +1805,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-077K15L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1825,7 +1825,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-077K15L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1860,7 +1860,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-075K23L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1880,7 +1880,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-075K23L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1915,7 +1915,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1935,7 +1935,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -1973,7 +1973,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-07100KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -1993,7 +1993,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-07100KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2032,7 +2032,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2053,7 +2053,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2088,7 +2088,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2108,7 +2108,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2143,7 +2143,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2163,7 +2163,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2185,7 +2185,7 @@
     <comp ref="U1">
       <value>TPS54302</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
-      <datasheet>htt[LOCAL_SOURCE]</datasheet>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps54302.pdf</datasheet>
       <description>4.5-28 V 3 A synchronous buck, SOT-23-6</description>
       <fields>
         <field name="Link"/>
@@ -2199,12 +2199,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=TPS54302DDCR</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps54302.pdf</field>
         <field name="Description">4.5-28 V 3 A synchronous buck, SOT-23-6</field>
       </fields>
       <libsource lib="Regulator_Switching" part="TPS54302" description="3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6"/>
@@ -2219,7 +2219,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=TPS54302DDCR"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2245,7 +2245,7 @@
     <comp ref="U2">
       <value>USBLC6-2SC6</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
       <description>USB low-capacitance ESD array, SOT-23-6</description>
       <fields>
         <field name="Link"/>
@@ -2259,12 +2259,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=USBLC6-2SC6</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
         <field name="Description">USB low-capacitance ESD array, SOT-23-6</field>
       </fields>
       <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
@@ -2279,7 +2279,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=USBLC6-2SC6"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2305,12 +2305,12 @@
     <comp ref="U3">
       <value>INA226</value>
       <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
-      <datasheet>htt[LOCAL_SOURCE]</datasheet>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ina226.pdf</datasheet>
       <description>High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10</description>
       <fields>
         <field name="Link"/>
         <field name="Footprint">Package_SO:VSSOP-10_3x3mm_P0.5mm</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina226.pdf</field>
         <field name="Description">High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10</field>
       </fields>
       <libsource lib="Sensor_Energy" part="INA226" description="High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10"/>
@@ -2344,7 +2344,7 @@
     <comp ref="U5">
       <value>AP2112K-3.3</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP2112.pdf</datasheet>
       <description>3.3 V 600 mA LDO, SOT-23-5</description>
       <fields>
         <field name="Link"/>
@@ -2358,12 +2358,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=AP2112K-3.3TRG1</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP2112.pdf</field>
         <field name="Description">3.3 V 600 mA LDO, SOT-23-5</field>
       </fields>
       <libsource lib="Regulator_Linear" part="AP2112K-3.3" description="600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"/>
@@ -2378,7 +2378,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=AP2112K-3.3TRG1"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2403,7 +2403,7 @@
     <comp ref="U6">
       <value>AP7343-33W5-7</value>
       <footprint>memo:(AP7343 )SOT-25_L3.0-W1.6-P0.95-LS2.8-BL</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://lcsc.com/product-detail/presales_Diodes-Incorporated-AP7343-33W5-7_C460383.html</datasheet>
       <description>3.3 V 300 mA LDO, SOT-25</description>
       <fields>
         <field name="LCSC Part">C460383</field>
@@ -2418,12 +2418,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=AP7343-33W5-7</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">memo:(AP7343 )SOT-25_L3.0-W1.6-P0.95-LS2.8-BL</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/presales_Diodes-Incorporated-AP7343-33W5-7_C460383.html</field>
         <field name="Description">3.3 V 300 mA LDO, SOT-25</field>
       </fields>
       <libsource lib="AP7343" part="AP7343-33W5-7" description=""/>
@@ -2439,7 +2439,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=AP7343-33W5-7"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2475,7 +2475,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71H103KA01D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2495,7 +2495,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71H103KA01D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2530,7 +2530,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R61C475KE11D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2550,7 +2550,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R61C475KE11D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2585,7 +2585,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2605,7 +2605,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2640,7 +2640,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2660,7 +2660,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2695,7 +2695,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2715,7 +2715,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2750,7 +2750,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2770,7 +2770,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2805,7 +2805,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2825,7 +2825,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C105KA12D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2860,7 +2860,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2880,7 +2880,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2915,7 +2915,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2935,7 +2935,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -2970,7 +2970,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H103KA88D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -2990,7 +2990,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H103KA88D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3025,7 +3025,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3045,7 +3045,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3080,7 +3080,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3100,7 +3100,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3135,7 +3135,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71H104KA93D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3155,7 +3155,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71H104KA93D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3190,7 +3190,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C225KE15D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3210,7 +3210,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C225KE15D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3245,7 +3245,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C225KE15D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3265,7 +3265,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C225KE15D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3301,7 +3301,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3322,7 +3322,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3358,7 +3358,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3379,7 +3379,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=LTST-C170KGKT"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3414,7 +3414,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=BLM18AG102SN1D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3434,7 +3434,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=BLM18AG102SN1D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3561,7 +3561,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-075K23L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3581,7 +3581,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-075K23L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3616,7 +3616,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0720KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3636,7 +3636,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0720KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3671,7 +3671,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402JR-070RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3691,7 +3691,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402JR-070RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3726,7 +3726,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3746,7 +3746,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3781,7 +3781,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3801,7 +3801,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0749R9L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3836,7 +3836,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3856,7 +3856,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3891,7 +3891,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-075K1L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3911,7 +3911,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-075K1L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -3947,7 +3947,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">4809-SKRKAEE020TR-ND</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/alps-alpine/SKRKAEE020/19529176</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -3968,7 +3968,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="4809-SKRKAEE020TR-ND"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/alps-alpine/SKRKAEE020/19529176"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4003,7 +4003,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">4809-SKRKAEE020TR-ND</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/alps-alpine/SKRKAEE020/19529176</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4024,7 +4024,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="4809-SKRKAEE020TR-ND"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/alps-alpine/SKRKAEE020/19529176"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4045,7 +4045,7 @@
     <comp ref="U7">
       <value>STM32H743VIT6</value>
       <footprint>Package_QFP:LQFP-100_14x14mm_P0.5mm</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32h743vi.pdf</datasheet>
       <description>STM32H743 MCU, LQFP-100</description>
       <fields>
         <field name="Link"/>
@@ -4059,12 +4059,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=STM32H743VIT6</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Package_QFP:LQFP-100_14x14mm_P0.5mm</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32h743vi.pdf</field>
         <field name="Description">STM32H743 MCU, LQFP-100</field>
       </fields>
       <libsource lib="MCU_ST_STM32H7" part="STM32H743VITx" description="STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100"/>
@@ -4079,7 +4079,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=STM32H743VIT6"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4199,7 +4199,7 @@
     <comp ref="Y1">
       <value>ASE-8.000MHZ-L-C-T</value>
       <footprint>Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm</footprint>
-      <datasheet>htt[LOCAL_SOURCE]</datasheet>
+      <datasheet>http://www.abracon.com/Oscillators/ASV.pdf</datasheet>
       <description>8.000 MHz 3.3 V CMOS active oscillator, 3.2 x 2.5 mm</description>
       <fields>
         <field name="Link"/>
@@ -4213,12 +4213,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">535-ASE-8.000MHZ-L-C-TTR-ND</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/abracon-llc/ASE-8-000MHZ-L-C-T/1236874</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.abracon.com/Oscillators/ASV.pdf</field>
         <field name="Description">8.000 MHz 3.3 V CMOS active oscillator, 3.2 x 2.5 mm</field>
       </fields>
       <libsource lib="Oscillator" part="ASE-xxxMHz" description="3.3V CMOS SMD Crystal Clock Oscillator, Abracon"/>
@@ -4233,7 +4233,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="535-ASE-8.000MHZ-L-C-TTR-ND"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/abracon-llc/ASE-8-000MHZ-L-C-T/1236874"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4270,7 +4270,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4290,7 +4290,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4325,7 +4325,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4345,7 +4345,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4380,7 +4380,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM188R71C225KE15D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4400,7 +4400,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM188R71C225KE15D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4435,7 +4435,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H103KA88D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4455,7 +4455,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H103KA88D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4580,7 +4580,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4600,7 +4600,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4635,7 +4635,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4655,7 +4655,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4690,7 +4690,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM1555C1H300JA01D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4710,7 +4710,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM1555C1H300JA01D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4745,7 +4745,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4765,7 +4765,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4800,7 +4800,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM1555C1H300JA01D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4820,7 +4820,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM1555C1H300JA01D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4855,7 +4855,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval and DC-bias review</field>
         <field name="DNP Status">POPULATE</field>
@@ -4875,7 +4875,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval and DC-bias review"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4910,7 +4910,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval and DC-bias review</field>
         <field name="DNP Status">POPULATE</field>
@@ -4930,7 +4930,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/murata-electronics/GRM188C61E226ME01D/22528498"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval and DC-bias review"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -4965,7 +4965,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -4985,7 +4985,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5020,7 +5020,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5040,7 +5040,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5075,7 +5075,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5095,7 +5095,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5130,7 +5130,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5150,7 +5150,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5185,7 +5185,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5205,7 +5205,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5240,7 +5240,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5260,7 +5260,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=GRM155R71H104KE14D"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5282,7 +5282,7 @@
     <comp ref="D8">
       <value>SM712_SOT23</value>
       <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm712_datasheet.pdf.pdf</datasheet>
       <description>CAN bus TVS array, SOT-23</description>
       <fields>
         <field name="Link"/>
@@ -5296,12 +5296,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM712-02HTG</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm712_datasheet.pdf.pdf</field>
         <field name="Description">CAN bus TVS array, SOT-23</field>
       </fields>
       <libsource lib="Diode" part="SM712_SOT23" description="7V/12V, 600W Asymmetrical TVS Diode Array, SOT-23"/>
@@ -5316,7 +5316,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM712-02HTG"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5352,7 +5352,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5372,7 +5372,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5407,7 +5407,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5427,7 +5427,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5462,7 +5462,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5482,7 +5482,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0710KL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5517,7 +5517,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5537,7 +5537,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-07330RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5572,7 +5572,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402JR-070RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5592,7 +5592,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402JR-070RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5627,7 +5627,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402JR-070RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5647,7 +5647,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402JR-070RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5682,7 +5682,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5702,7 +5702,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5737,7 +5737,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5757,7 +5757,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5792,7 +5792,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0775RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5812,7 +5812,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0775RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5847,7 +5847,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-0775RL</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5867,7 +5867,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-0775RL"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5903,7 +5903,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-077K5L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5923,7 +5923,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-077K5L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -5958,7 +5958,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-077K5L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -5978,7 +5978,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-077K5L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6013,7 +6013,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -6033,7 +6033,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6068,7 +6068,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">Equivalent only with written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -6088,7 +6088,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=RC0402FR-074K7L"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="Equivalent only with written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6116,10 +6116,10 @@
         <field name="MAXIMUM_PACKAGE_HEIGHT">0.97mm</field>
         <field name="Package">LGA-14 TDK InvenSense</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ICM-42688-P/TDK/view-part/?ref=eda</field>
         <field name="STANDARD">IPC-7351B</field>
         <field name="PARTREV">1.2</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ICM-42688-P/TDK/view-part/?ref=snap</field>
         <field name="MP">ICM-42688-P</field>
         <field name="Description_1">Accelerometer, Gyroscope, 6 Axis Sensor - Output</field>
         <field name="Availability">In Stock</field>
@@ -6135,7 +6135,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=ICM-42688-P</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
@@ -6148,10 +6148,10 @@
       <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.97mm"/>
       <property name="Package" value="LGA-14 TDK InvenSense"/>
       <property name="Price" value="None"/>
-      <property name="Check_prices" value="http[LOCAL_SOURCE]"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/ICM-42688-P/TDK/view-part/?ref=eda"/>
       <property name="STANDARD" value="IPC-7351B"/>
       <property name="PARTREV" value="1.2"/>
-      <property name="SnapEDA_Link" value="http[LOCAL_SOURCE]"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/ICM-42688-P/TDK/view-part/?ref=snap"/>
       <property name="MP" value="ICM-42688-P"/>
       <property name="Description_1" value="Accelerometer, Gyroscope, 6 Axis Sensor - Output"/>
       <property name="Availability" value="In Stock"/>
@@ -6167,7 +6167,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=ICM-42688-P"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6205,10 +6205,10 @@
         <field name="MAXIMUM_PACKAGE_HEIGHT">2.16 mm</field>
         <field name="Package">SOIC-8 Winbond Electronics</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond/view-part/?ref=eda</field>
         <field name="STANDARD">IPC-7351B</field>
         <field name="PARTREV">I</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond/view-part/?ref=snap</field>
         <field name="MP">W25Q128JVSIQ</field>
         <field name="Description_1">FLASH - NOR Memory IC 128Mb (16M x 8) SPI - Quad I/O, QPI, DTR 133 MHz 8-SOIC</field>
         <field name="Availability">In Stock</field>
@@ -6224,7 +6224,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=W25Q128JVSIQ</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
@@ -6237,10 +6237,10 @@
       <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.16 mm"/>
       <property name="Package" value="SOIC-8 Winbond Electronics"/>
       <property name="Price" value="None"/>
-      <property name="Check_prices" value="http[LOCAL_SOURCE]"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond/view-part/?ref=eda"/>
       <property name="STANDARD" value="IPC-7351B"/>
       <property name="PARTREV" value="I"/>
-      <property name="SnapEDA_Link" value="http[LOCAL_SOURCE]"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond/view-part/?ref=snap"/>
       <property name="MP" value="W25Q128JVSIQ"/>
       <property name="Description_1" value="FLASH - NOR Memory IC 128Mb (16M x 8) SPI - Quad I/O, QPI, DTR 133 MHz 8-SOIC"/>
       <property name="Availability" value="In Stock"/>
@@ -6256,7 +6256,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=W25Q128JVSIQ"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6289,9 +6289,9 @@
         <field name="MAXIMUM_PACKAGE_HEIGHT">0.87mm</field>
         <field name="Package">LGA-14 Bosch Sensortec</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=eda</field>
         <field name="STANDARD">Manufacturer Recommendations</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=snap</field>
         <field name="MP">BMI270</field>
         <field name="Description_1">Accelerometer, Gyroscope, 6 Axis Sensor I2C, SPI Output</field>
         <field name="Availability">In Stock</field>
@@ -6307,7 +6307,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=BMI270</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
@@ -6321,9 +6321,9 @@
       <property name="MAXIMUM_PACKAGE_HEIGHT" value="0.87mm"/>
       <property name="Package" value="LGA-14 Bosch Sensortec"/>
       <property name="Price" value="None"/>
-      <property name="Check_prices" value="http[LOCAL_SOURCE]"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=eda"/>
       <property name="STANDARD" value="Manufacturer Recommendations"/>
-      <property name="SnapEDA_Link" value="http[LOCAL_SOURCE]"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=snap"/>
       <property name="MP" value="BMI270"/>
       <property name="Description_1" value="Accelerometer, Gyroscope, 6 Axis Sensor I2C, SPI Output"/>
       <property name="Availability" value="In Stock"/>
@@ -6339,7 +6339,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=BMI270"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6371,12 +6371,12 @@
     <comp ref="U11">
       <value>LIS3MDLTR</value>
       <footprint>memo:(mag)LGA-12_L2.0-W2.0-P0.50-BL</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://lcsc.com/product-detail/New-Arrivals_STMicroelectronics-LIS3MDLTR_C478483.html</datasheet>
       <fields>
         <field name="LCSC Part">C478483</field>
         <field name="Link"/>
         <field name="Footprint">memo:(mag)LGA-12_L2.0-W2.0-P0.50-BL</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/New-Arrivals_STMicroelectronics-LIS3MDLTR_C478483.html</field>
         <field name="Description"/>
       </fields>
       <libsource lib="mag" part="LIS3MDLTR" description=""/>
@@ -6417,10 +6417,10 @@
         <field name="Description_1">Pressure Sensor 4.35PSI ~ 18.13PSI (30kPa ~ 125kPa) Absolute - - 10-WFLGA</field>
         <field name="Package">WFLGA-10 Bosch Tools</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=eda</field>
         <field name="STANDARD">IPC 7351B</field>
         <field name="PARTREV">1.1</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=snap</field>
         <field name="MP">BMP388</field>
         <field name="Availability">In Stock</field>
         <field name="MANUFACTURER">BOSCH</field>
@@ -6435,7 +6435,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=BMP388</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
@@ -6448,10 +6448,10 @@
       <property name="Description_1" value="Pressure Sensor 4.35PSI ~ 18.13PSI (30kPa ~ 125kPa) Absolute - - 10-WFLGA"/>
       <property name="Package" value="WFLGA-10 Bosch Tools"/>
       <property name="Price" value="None"/>
-      <property name="Check_prices" value="http[LOCAL_SOURCE]"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=eda"/>
       <property name="STANDARD" value="IPC 7351B"/>
       <property name="PARTREV" value="1.1"/>
-      <property name="SnapEDA_Link" value="http[LOCAL_SOURCE]"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=snap"/>
       <property name="MP" value="BMP388"/>
       <property name="Availability" value="In Stock"/>
       <property name="MANUFACTURER" value="BOSCH"/>
@@ -6466,7 +6466,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=BMP388"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6494,7 +6494,7 @@
     <comp ref="U13">
       <value>AT7456E</value>
       <footprint>memo:AT7456E</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://lcsc.com/product-detail/Analog-ICs_AT7456E_C82351.html</datasheet>
       <description>Monochrome OSD generator, TSSOP-28 exposed pad</description>
       <fields>
         <field name="LCSC Part">C82351</field>
@@ -6509,12 +6509,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">LCSC</field>
         <field name="Distributor Part Number">C82351</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.lcsc.com/product-detail/C82351.html</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">memo:AT7456E</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/Analog-ICs_AT7456E_C82351.html</field>
         <field name="Description">Monochrome OSD generator, TSSOP-28 exposed pad</field>
       </fields>
       <libsource lib="OSD" part="AT7456E" description=""/>
@@ -6530,7 +6530,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="LCSC"/>
       <property name="Distributor Part Number" value="C82351"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.lcsc.com/product-detail/C82351.html"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6577,7 +6577,7 @@
     <comp ref="U14">
       <value>SN65HVD230</value>
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
-      <datasheet>htt[LOCAL_SOURCE]</datasheet>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf</datasheet>
       <description>3.3 V CAN transceiver, SOIC-8</description>
       <fields>
         <field name="Link"/>
@@ -6591,12 +6591,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SN65HVD230DR</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf</field>
         <field name="Description">3.3 V CAN transceiver, SOIC-8</field>
       </fields>
       <libsource lib="Interface_CAN_LIN" part="SN65HVD230" description="CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8"/>
@@ -6611,7 +6611,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SN65HVD230DR"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6652,7 +6652,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">114-TSX-322527.00M-N0AANNG40RG3TR-ND</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/epson/TSX-3225-27-00M-N0AANNG40RG3/17120310</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
@@ -6672,7 +6672,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="114-TSX-322527.00M-N0AANNG40RG3TR-ND"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/epson/TSX-3225-27-00M-N0AANNG40RG3/17120310"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6709,7 +6709,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -6729,7 +6729,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6766,7 +6766,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -6786,7 +6786,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6823,7 +6823,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM06B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -6843,7 +6843,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM06B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6882,7 +6882,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -6902,7 +6902,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -6939,7 +6939,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM08B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -6959,7 +6959,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM08B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -7000,7 +7000,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -7020,7 +7020,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -7057,7 +7057,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -7077,7 +7077,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -7114,7 +7114,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM06B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -7134,7 +7134,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM06B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -7173,7 +7173,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -7193,7 +7193,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -7230,7 +7230,7 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">See sourcing URL</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)</field>
         <field name="PCBWay Sourcing Note">PCBWay turnkey; exact MPN</field>
         <field name="Substitution Policy">NO SUBSTITUTE without written approval</field>
         <field name="DNP Status">POPULATE</field>
@@ -7250,7 +7250,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="See sourcing URL"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/result?keywords=SM04B-SRSS-TB(LF)(SN)"/>
       <property name="PCBWay Sourcing Note" value="PCBWay turnkey; exact MPN"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE without written approval"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -7274,7 +7274,7 @@
     <comp ref="J12">
       <value>POWER1 REGULATED 5.2V IN</value>
       <footprint>FC_Footprints:Molex_Nano-Fit_105311-1202_1x02_P2.50mm_Vertical_SolderClip</footprint>
-      <datasheet>http[LOCAL_SOURCE]</datasheet>
+      <datasheet>https://www.molex.com/en-us/products/part-detail/1053111202</datasheet>
       <description>Nano-Fit 2-circuit vertical THT solder-clip header, black, 0.38 um gold</description>
       <fields>
         <field name="Manufacturer">Molex</field>
@@ -7290,12 +7290,12 @@
         <field name="Lifecycle">Active</field>
         <field name="Approved Distributor">DigiKey</field>
         <field name="Distributor Part Number">WM15082-ND</field>
-        <field name="Sourcing URL">http[LOCAL_SOURCE]</field>
+        <field name="Sourcing URL">https://www.digikey.com/en/products/detail/molex/1053111202/6164171</field>
         <field name="PCBWay Sourcing Note">PCBWay THT; exact black/gold MPN only</field>
         <field name="Substitution Policy">NO SUBSTITUTE WITHOUT WRITTEN APPROVAL</field>
         <field name="DNP Status">POPULATE</field>
         <field name="Footprint">FC_Footprints:Molex_Nano-Fit_105311-1202_1x02_P2.50mm_Vertical_SolderClip</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.molex.com/en-us/products/part-detail/1053111202</field>
         <field name="Description">Nano-Fit 2-circuit vertical THT solder-clip header, black, 0.38 um gold</field>
       </fields>
       <libsource lib="FC_Symbols" part="Molex_105311-1202" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -7312,7 +7312,7 @@
       <property name="Lifecycle" value="Active"/>
       <property name="Approved Distributor" value="DigiKey"/>
       <property name="Distributor Part Number" value="WM15082-ND"/>
-      <property name="Sourcing URL" value="http[LOCAL_SOURCE]"/>
+      <property name="Sourcing URL" value="https://www.digikey.com/en/products/detail/molex/1053111202/6164171"/>
       <property name="PCBWay Sourcing Note" value="PCBWay THT; exact black/gold MPN only"/>
       <property name="Substitution Policy" value="NO SUBSTITUTE WITHOUT WRITTEN APPROVAL"/>
       <property name="DNP Status" value="POPULATE"/>
@@ -8468,12 +8468,12 @@
   </components>
   <libparts>
     <libpart lib="AO3407A" part="AO3407A">
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://lcsc.com/product-detail/MOSFET_AOS_AO3407A_AO3407A_C15155.html</docs>
       <fields>
         <field name="Reference">Q</field>
         <field name="Value">AO3407A</field>
         <field name="Footprint">easyeda2kicad:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/MOSFET_AOS_AO3407A_AO3407A_C15155.html</field>
         <field name="Description"/>
         <field name="LCSC Part">C15155</field>
       </fields>
@@ -8484,12 +8484,12 @@
       </pins>
     </libpart>
     <libpart lib="AP7343" part="AP7343-33W5-7">
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://lcsc.com/product-detail/presales_Diodes-Incorporated-AP7343-33W5-7_C460383.html</docs>
       <fields>
         <field name="Reference">U</field>
         <field name="Value">AP7343-33W5-7</field>
         <field name="Footprint">easyeda2kicad:SOT-25_L3.0-W1.6-P0.95-LS2.8-BL</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/presales_Diodes-Incorporated-AP7343-33W5-7_C460383.html</field>
         <field name="Description"/>
         <field name="LCSC Part">C460383</field>
       </fields>
@@ -8512,10 +8512,10 @@
         <field name="Description_1">Pressure Sensor 4.35PSI ~ 18.13PSI (30kPa ~ 125kPa) Absolute - - 10-WFLGA</field>
         <field name="Package">WFLGA-10 Bosch Tools</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=eda</field>
         <field name="STANDARD">IPC 7351B</field>
         <field name="PARTREV">1.1</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BMP388/Bosch/view-part/?ref=snap</field>
         <field name="MP">BMP388</field>
         <field name="Availability">In Stock</field>
         <field name="MANUFACTURER">BOSCH</field>
@@ -8727,7 +8727,7 @@
     </libpart>
     <libpart lib="Diode" part="SM712_SOT23">
       <description>7V/12V, 600W Asymmetrical TVS Diode Array, SOT-23</description>
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm712_datasheet.pdf.pdf</docs>
       <footprints>
         <fp>SOT?23*</fp>
       </footprints>
@@ -8735,7 +8735,7 @@
         <field name="Reference">D</field>
         <field name="Value">SM712_SOT23</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm712_datasheet.pdf.pdf</field>
         <field name="Description">7V/12V, 600W Asymmetrical TVS Diode Array, SOT-23</field>
       </fields>
       <pins>
@@ -8746,7 +8746,7 @@
     </libpart>
     <libpart lib="Diode" part="SMF26A">
       <description>200W unidirectional Transil Transient Voltage Suppressor, 26Vrwm, SMF</description>
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://www.vishay.com/doc?85881</docs>
       <footprints>
         <fp>D*SMF*</fp>
       </footprints>
@@ -8754,7 +8754,7 @@
         <field name="Reference">D</field>
         <field name="Value">SMF26A</field>
         <field name="Footprint">Diode_SMD:D_SMF</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.vishay.com/doc?85881</field>
         <field name="Description">200W unidirectional Transil Transient Voltage Suppressor, 26Vrwm, SMF</field>
       </fields>
       <pins>
@@ -8790,10 +8790,10 @@
         <field name="MAXIMUM_PACKAGE_HEIGHT">0.97mm</field>
         <field name="Package">LGA-14 TDK InvenSense</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/ICM-42688-P/TDK/view-part/?ref=eda</field>
         <field name="STANDARD">IPC-7351B</field>
         <field name="PARTREV">1.2</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/ICM-42688-P/TDK/view-part/?ref=snap</field>
         <field name="MP">ICM-42688-P</field>
         <field name="Description_1">Accelerometer, Gyroscope, 6 Axis Sensor - Output</field>
         <field name="Availability">In Stock</field>
@@ -8818,7 +8818,7 @@
     </libpart>
     <libpart lib="Interface_CAN_LIN" part="SN65HVD230">
       <description>CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8</description>
-      <docs>htt[LOCAL_SOURCE]</docs>
+      <docs>http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf</docs>
       <footprints>
         <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
       </footprints>
@@ -8826,7 +8826,7 @@
         <field name="Reference">U</field>
         <field name="Value">SN65HVD230</field>
         <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf</field>
         <field name="Description">CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC-8</field>
       </fields>
       <pins>
@@ -8860,7 +8860,7 @@
     </libpart>
     <libpart lib="MCU_ST_STM32H7" part="STM32H743VITx">
       <description>STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100</description>
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://www.st.com/resource/en/datasheet/stm32h743vi.pdf</docs>
       <footprints>
         <fp>LQFP*14x14mm*P0.5mm*</fp>
       </footprints>
@@ -8868,7 +8868,7 @@
         <field name="Reference">U</field>
         <field name="Value">STM32H743VITx</field>
         <field name="Footprint">Package_QFP:LQFP-100_14x14mm_P0.5mm</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32h743vi.pdf</field>
         <field name="Description">STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100</field>
       </fields>
       <pins>
@@ -8988,12 +8988,12 @@
       </fields>
     </libpart>
     <libpart lib="OSD" part="AT7456E">
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://lcsc.com/product-detail/Analog-ICs_AT7456E_C82351.html</docs>
       <fields>
         <field name="Reference">U</field>
         <field name="Value">AT7456E</field>
         <field name="Footprint">easyeda2kicad:TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP-2</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/Analog-ICs_AT7456E_C82351.html</field>
         <field name="Description"/>
         <field name="LCSC Part">C82351</field>
       </fields>
@@ -9031,7 +9031,7 @@
     </libpart>
     <libpart lib="Oscillator" part="ASE-xxxMHz">
       <description>3.3V CMOS SMD Crystal Clock Oscillator, Abracon</description>
-      <docs>htt[LOCAL_SOURCE]</docs>
+      <docs>http://www.abracon.com/Oscillators/ASV.pdf</docs>
       <footprints>
         <fp>Oscillator*SMD*Abracon*ASE*3.2x2.5mm*</fp>
       </footprints>
@@ -9039,7 +9039,7 @@
         <field name="Reference">Y</field>
         <field name="Value">ASE-xxxMHz</field>
         <field name="Footprint">Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.abracon.com/Oscillators/ASV.pdf</field>
         <field name="Description">3.3V CMOS SMD Crystal Clock Oscillator, Abracon</field>
       </fields>
       <pins>
@@ -9051,7 +9051,7 @@
     </libpart>
     <libpart lib="Power_Protection" part="USBLC6-2SC6">
       <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
       <footprints>
         <fp>SOT?23*</fp>
       </footprints>
@@ -9059,7 +9059,7 @@
         <field name="Reference">U</field>
         <field name="Value">USBLC6-2SC6</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
         <field name="Description">Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</field>
       </fields>
       <pins>
@@ -9073,7 +9073,7 @@
     </libpart>
     <libpart lib="Regulator_Linear" part="AP2112K-3.3">
       <description>600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5</description>
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://www.diodes.com/assets/Datasheets/AP2112.pdf</docs>
       <footprints>
         <fp>SOT?23?5*</fp>
       </footprints>
@@ -9081,7 +9081,7 @@
         <field name="Reference">U</field>
         <field name="Value">AP2112K-3.3</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/AP2112.pdf</field>
         <field name="Description">600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5</field>
       </fields>
       <pins>
@@ -9094,7 +9094,7 @@
     </libpart>
     <libpart lib="Regulator_Switching" part="TPS54302">
       <description>3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6</description>
-      <docs>htt[LOCAL_SOURCE]</docs>
+      <docs>http://www.ti.com/lit/ds/symlink/tps54302.pdf</docs>
       <footprints>
         <fp>SOT?23*</fp>
       </footprints>
@@ -9102,7 +9102,7 @@
         <field name="Reference">U</field>
         <field name="Value">TPS54302</field>
         <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps54302.pdf</field>
         <field name="Description">3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6</field>
       </fields>
       <pins>
@@ -9116,7 +9116,7 @@
     </libpart>
     <libpart lib="Sensor_Energy" part="INA226">
       <description>High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10</description>
-      <docs>htt[LOCAL_SOURCE]</docs>
+      <docs>http://www.ti.com/lit/ds/symlink/ina226.pdf</docs>
       <footprints>
         <fp>VSSOP*3x3mm*P0.5mm*</fp>
       </footprints>
@@ -9124,7 +9124,7 @@
         <field name="Reference">U9</field>
         <field name="Value">INA226</field>
         <field name="Footprint">Package_SO:VSSOP-10_3x3mm_P0.5mm</field>
-        <field name="Datasheet">htt[LOCAL_SOURCE]</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ina226.pdf</field>
         <field name="Description">High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10</field>
       </fields>
       <pins>
@@ -9165,10 +9165,10 @@
         <field name="Description_1">USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle</field>
         <field name="Package">None</field>
         <field name="Price">None</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=snap</field>
         <field name="MP">USB4110GFA</field>
         <field name="Availability">In Stock</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/USB4110GFA/Global+Connector+Technology/view-part/?ref=eda</field>
       </fields>
       <pins>
         <pin num="A1/B12" name="GND" type="power_in"/>
@@ -9201,9 +9201,9 @@
         <field name="MAXIMUM_PACKAGE_HEIGHT">0.87mm</field>
         <field name="Package">LGA-14 Bosch Sensortec</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=eda</field>
         <field name="STANDARD">Manufacturer Recommendations</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/BMI270/Bosch/view-part/?ref=snap</field>
         <field name="MP">BMI270</field>
         <field name="Description_1">Accelerometer, Gyroscope, 6 Axis Sensor I2C, SPI Output</field>
         <field name="Availability">In Stock</field>
@@ -9237,10 +9237,10 @@
         <field name="MAXIMUM_PACKAGE_HEIGHT">2.16 mm</field>
         <field name="Package">SOIC-8 Winbond Electronics</field>
         <field name="Price">None</field>
-        <field name="Check_prices">http[LOCAL_SOURCE]</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond/view-part/?ref=eda</field>
         <field name="STANDARD">IPC-7351B</field>
         <field name="PARTREV">I</field>
-        <field name="SnapEDA_Link">http[LOCAL_SOURCE]</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/W25Q128JVSIQ/Winbond/view-part/?ref=snap</field>
         <field name="MP">W25Q128JVSIQ</field>
         <field name="Description_1">FLASH - NOR Memory IC 128Mb (16M x 8) SPI - Quad I/O, QPI, DTR 133 MHz 8-SOIC</field>
         <field name="Availability">In Stock</field>
@@ -9258,12 +9258,12 @@
       </pins>
     </libpart>
     <libpart lib="mag" part="LIS3MDLTR">
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://lcsc.com/product-detail/New-Arrivals_STMicroelectronics-LIS3MDLTR_C478483.html</docs>
       <fields>
         <field name="Reference">U</field>
         <field name="Value">LIS3MDLTR</field>
         <field name="Footprint">easyeda2kicad:LGA-12_L2.0-W2.0-P0.50-BL</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/New-Arrivals_STMicroelectronics-LIS3MDLTR_C478483.html</field>
         <field name="Description"/>
         <field name="LCSC Part">C478483</field>
       </fields>
@@ -9297,12 +9297,12 @@
       </pins>
     </libpart>
     <libpart lib="zener" part="BZT52C12-13-F">
-      <docs>http[LOCAL_SOURCE]</docs>
+      <docs>https://lcsc.com/product-detail/Others_Diodes-Incorporated_BZT52C12-13-F_Diodes-Incorporated-BZT52C12-13-F_C177013.html</docs>
       <fields>
         <field name="Reference">D</field>
         <field name="Value">BZT52C12-13-F</field>
         <field name="Footprint">easyeda2kicad:SOD-123F_L2.8-W1.8-LS3.7-RD</field>
-        <field name="Datasheet">http[LOCAL_SOURCE]</field>
+        <field name="Datasheet">https://lcsc.com/product-detail/Others_Diodes-Incorporated_BZT52C12-13-F_Diodes-Incorporated-BZT52C12-13-F_C177013.html</field>
         <field name="Description"/>
         <field name="LCSC Part">C177013</field>
       </fields>
