@@ -1,0 +1,5 @@
+# PCBWay manufacturer panel instructions
+
+Use the supplied single-board fabrication data as source of truth. Create a **2 x 2 routed assembly panel**. Minimum assembly panel 50 x 50 mm; use 5–10 mm rails on two opposite sides, three 1 mm global fiducials per assembly side with 1.7 mm mask clearance, and 2 mm NPTH tooling holes. Use 1.6 mm routed separation where required by PCBWay process. Put break tabs on straight main-body edges, never through the POWER1 tab/neck, USB-C, Nano-Fit latch envelope or M3 holes. Protect the integral tab from depanelization stress; router depanelization is preferred. Deliver individual boards only after confirming tab-safe depanelization. PCBWay may optimize panel dimensions for its prototype line but may not change the electrical single-board outline.
+
+Official sources: https://www.pcbway.com/pcb_prototype/Panel_Requirements_for_Assembly.html ; https://www.pcbway.com/helpcenter/design_instruction/PCB_Panelization__Breakaway_Rails__Fiducial_Marks__Tooling_Holes.html

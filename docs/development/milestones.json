@@ -1,0 +1,90 @@
+[
+  {
+    "id": "01-research",
+    "date": "2026-08-26 to 2026-08-27",
+    "title": "Research and architecture baseline",
+    "tag": "v2-01-research",
+    "commit": "ce4ff66d84a56c70ca02beaf12349326d3cd6d7f",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "02-selection",
+    "date": "2026-08-28 to 2026-09-07",
+    "title": "Circuit selection and subsystem boundaries",
+    "tag": "v2-02-selection",
+    "commit": "e783690b9c3fdc34de51e5cccf7744ebd7dcbe04",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "03-interface-freeze",
+    "date": "2026-09-07",
+    "title": "MCU resource and interface freeze",
+    "tag": "v2-03-interface-freeze",
+    "commit": "3184b022be86890d3edf4206c46a7eb7c9659511",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "04-foundation",
+    "date": "2026-09-07",
+    "title": "KiCad foundation",
+    "tag": "v2-04-foundation",
+    "commit": "d9a70b265c87d8114cb89dcc1e42cf2b997fafc4",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "05-mcu-core",
+    "date": "2026-09-07 to 2026-09-08",
+    "title": "STM32H743 core capture",
+    "tag": "v2-05-mcu-core",
+    "commit": "6b26a054d8f3a05a543d4cac0edbf74cb9c6bd3f",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "06-power",
+    "date": "2026-09-08 to 2026-09-09",
+    "title": "Power tree and correction sequence",
+    "tag": "v2-06-power",
+    "commit": "3be26dcd2bd3b609719800b6abc269298cc84291",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "07-sensors",
+    "date": "2026-09-09",
+    "title": "IMU and barometer capture",
+    "tag": "v2-07-sensors",
+    "commit": "aa502b6ecaa88e424337fcdb400e57ae60c23127",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "08-interfaces",
+    "date": "2026-09-09 to 2026-09-10",
+    "title": "External interfaces and correction closeout",
+    "tag": "v2-08-interfaces",
+    "commit": "44289e1c5f630599c12596beb9aa2e5d24f70633",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "09-schematic-review",
+    "date": "2026-09-10",
+    "title": "Schematic, footprint and BOM review",
+    "tag": "v2-09-schematic-review",
+    "commit": "4bd58a86b14a9337f8ec58c86ffcebb4f30ec1b9",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "10-placement",
+    "date": "2026-09-10",
+    "title": "Four-layer placement study",
+    "tag": "v2-10-placement",
+    "commit": "e0185d1f985270024bbfa62e5966ad2ca48e28ac",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  },
+  {
+    "id": "11-routing",
+    "date": "2026-09-10 to 2026-09-11",
+    "title": "Initial routing and blockers",
+    "tag": "v2-11-routing",
+    "commit": "f8c2c01aec47e3f42c4ce6181403125ec4738d8f",
+    "source_status": "documentary milestone; native experiments preserved in development archive"
+  }
+]

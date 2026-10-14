@@ -1,0 +1,9 @@
+Designator,Status,Reason
+D3,DELETED / DO NOT POPULATE,"Physical isolation; absent from schematic, PCB, BOM and placement"
+U4,DELETED / DO NOT POPULATE,"Physical isolation; absent from schematic, PCB, BOM and placement"
+L2,DELETED / DO NOT POPULATE,"Physical isolation; absent from schematic, PCB, BOM and placement"
+C14,DELETED / DO NOT POPULATE,"Physical isolation; absent from schematic, PCB, BOM and placement"
+H1,NON-PURCHASED PCB FEATURE,M3 mounting hole; excluded from BOM and placement
+H2,NON-PURCHASED PCB FEATURE,M3 mounting hole; excluded from BOM and placement
+H3,NON-PURCHASED PCB FEATURE,M3 mounting hole; excluded from BOM and placement
+H4,NON-PURCHASED PCB FEATURE,M3 mounting hole; excluded from BOM and placement

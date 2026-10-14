@@ -1,0 +1,110 @@
+{
+  "erc": {
+    "errors": 0,
+    "warnings": 40,
+    "types": {
+      "power_pin_not_driven": 1,
+      "pin_to_pin": 39
+    },
+    "unconnected": 0,
+    "parity": 0,
+    "ignored_checks": [
+      {
+        "description": "Four connection points are joined together",
+        "key": "four_way_junction"
+      },
+      {
+        "description": "SPICE model issue",
+        "key": "simulation_model_issue"
+      },
+      {
+        "description": "Library symbol issue",
+        "key": "lib_symbol_issues"
+      },
+      {
+        "description": "Symbol doesn't match copy in library",
+        "key": "lib_symbol_mismatch"
+      },
+      {
+        "description": "Footprint link issue",
+        "key": "footprint_link_issues"
+      },
+      {
+        "description": "Assigned footprint doesn't match footprint filters",
+        "key": "footprint_filter"
+      }
+    ]
+  },
+  "drc": {
+    "errors": 0,
+    "warnings": 0,
+    "types": {},
+    "unconnected": 0,
+    "parity": 0,
+    "ignored_checks": [
+      {
+        "description": "Via is not connected or connected on only one layer",
+        "key": "via_dangling"
+      },
+      {
+        "description": "Courtyards overlap",
+        "key": "courtyards_overlap"
+      },
+      {
+        "description": "Footprint has no courtyard defined",
+        "key": "missing_courtyard"
+      },
+      {
+        "description": "Track endpoint not centered on via",
+        "key": "track_not_centered_on_via"
+      },
+      {
+        "description": "Tuning profile track geometries",
+        "key": "tuning_profile_track_geometries"
+      },
+      {
+        "description": "Footprint doesn't match symbol's footprint filters",
+        "key": "footprint_filters_mismatch"
+      },
+      {
+        "description": "Silkscreen clearance",
+        "key": "silk_overlap"
+      },
+      {
+        "description": "Silkscreen clipped by solder mask",
+        "key": "silk_over_copper"
+      },
+      {
+        "description": "PTH inside courtyard",
+        "key": "pth_inside_courtyard"
+      },
+      {
+        "description": "NPTH inside courtyard",
+        "key": "npth_inside_courtyard"
+      },
+      {
+        "description": "Footprint component type doesn't match footprint pads",
+        "key": "footprint_type_mismatch"
+      },
+      {
+        "description": "Footprint not found in libraries",
+        "key": "lib_footprint_issues"
+      },
+      {
+        "description": "Footprint doesn't match copy in library",
+        "key": "lib_footprint_mismatch"
+      }
+    ]
+  },
+  "dnp_exception": {
+    "items": [],
+    "all_endpoints_dnp": true
+  },
+  "source": {
+    "pcb": "af20e43fdd5b0429e866ae9533709847d9ea125a5583f54f09e233b6e32e433b",
+    "schematic": "c5d6ab33296c89972d4877f04348fc7c9e4924f028dfc0800c030951139f4b69",
+    "project": "32d7192262c195f5ca75f5b4328aef860eacf13c67eb87a9942a06fd09a4aa5e"
+  },
+  "date": "2026-10-14",
+  "kicad": "10.0.6"
+}

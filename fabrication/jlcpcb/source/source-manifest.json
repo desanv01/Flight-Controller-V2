@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "vendor": "jlcpcb",
+  "source": {
+    "pcb": "9dac5e9a0aee1877678dd5973ef6c60fa162c6a04ae98c86fd7cfc070075eeb1",
+    "schematic": "c5d6ab33296c89972d4877f04348fc7c9e4924f028dfc0800c030951139f4b69",
+    "project": "32d7192262c195f5ca75f5b4328aef860eacf13c67eb87a9942a06fd09a4aa5e"
+  },
+  "publication_date": "2026-10-14",
+  "status": "engineering validation; physical qualification pending"
+}

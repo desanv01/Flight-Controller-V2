@@ -1,0 +1,3 @@
+# POWER1 copper and via-current calculation
+
+Design basis: 3.0 A continuous, 4.0 A for 100 ms, local 5 A sizing. The direct J12-to-rail path uses broad outer/inner copper rather than thermal spokes. Conservative IPC-2221 estimate for the ≥4.5 mm x 35 µm outer-copper neck at 3 A is about 1.4 °C rise; the PCBWay 1 oz inner planes improve the earlier margin. Five +5V vias give 0.6 A/via at 3 A and 1.0 A/via at 5 A; seven GND vias give 0.43 A/via at 3 A and 0.71 A/via at 5 A. This supports the <10 °C design target, subject to the mandatory fabricated-board 3 A, transient and 55 °C ambient thermal tests.

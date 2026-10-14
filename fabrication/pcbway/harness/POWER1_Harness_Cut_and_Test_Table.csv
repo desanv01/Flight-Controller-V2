@@ -1,0 +1,3 @@
+Conductor,Cut length,Pin,Net,Continuity,Isolation/Polarity
+Red,100 mm target / 150 mm max,1,+5V,<0.1 ohm,No short to pin 2; red positive
+Black,100 mm target / 150 mm max,2,GND,<0.1 ohm,No short to pin 1; black return

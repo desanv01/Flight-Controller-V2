@@ -1,0 +1,7 @@
+Item,Qty,Manufacturer,MPN,Note
+Housing,1,Molex,105307-1202,Nano-Fit 2-circuit receptacle
+Female contact,2,Molex,105300-2200,"20–22 AWG, 0.38 um gold"
+TPA,1,Molex,105325-1002,Exact retainer
+Red wire,100 mm,Approved harness supplier,22-AWG thin-wall red,OD <=1.60 mm; max 150 mm
+Black wire,100 mm,Approved harness supplier,22-AWG thin-wall black,OD <=1.60 mm; max 150 mm
+Heat-shrink/strain relief,AR,Approved harness supplier,Fit to BEC termination,Flame-retardant

@@ -1,0 +1,28 @@
+(kicad_symbol_lib
+	(version 20231120)
+	(generator "kicad_symbol_editor")
+	(generator_version "10.0")
+	(symbol "Molex_105311-1202"
+		(pin_names (offset 0.254))
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J" (at 3.81 2.54 0) (effects (font (size 1.27 1.27))))
+		(property "Value" "Molex_105311-1202" (at 3.81 -5.08 0) (effects (font (size 1.27 1.27))))
+		(property "Footprint" "FC_Footprints:Molex_Nano-Fit_105311-1202_1x02_P2.50mm_Vertical_SolderClip" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/1053111202" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(property "Description" "Nano-Fit, 2.50 mm, 2 circuits, vertical top-entry, through-hole solder clips, black, 0.38 um gold" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(property "Manufacturer" "Molex" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(property "MPN" "105311-1202" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(property "Mating housing" "105307-1202" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(property "Female contact" "105300-2200" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(property "TPA retainer" "105325-1002" (at 0 0 0) (effects (font (size 1.27 1.27)) hide))
+		(symbol "Molex_105311-1202_0_1"
+			(rectangle (start 0 1.27) (end 7.62 -3.81) (stroke (width 0.254) (type default)) (fill (type background)))
+		)
+		(symbol "Molex_105311-1202_1_1"
+			(pin power_in line (at -2.54 0 0) (length 2.54) (name "+5V" (effects (font (size 1.27 1.27)))) (number "1" (effects (font (size 1.27 1.27)))))
+			(pin power_in line (at -2.54 -2.54 0) (length 2.54) (name "GND" (effects (font (size 1.27 1.27)))) (number "2" (effects (font (size 1.27 1.27)))))
+		)
+	)
+)

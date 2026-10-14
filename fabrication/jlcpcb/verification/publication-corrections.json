@@ -1,0 +1,43 @@
+{
+  "geometry_signature_before": "db755d7013af1220b053d57bf67ca7fa3f516934738338f68fc96e2f75463e83",
+  "geometry_signature_after": "db755d7013af1220b053d57bf67ca7fa3f516934738338f68fc96e2f75463e83",
+  "geometry_unchanged": true,
+  "changes": [
+    {
+      "reference": "J12",
+      "kind": "library-ID",
+      "old": "Molex_Nano-Fit_105311-1202_1x02_P2.50mm_Vertical_SolderClip",
+      "new": "FC_Footprints:Molex_Nano-Fit_105311-1202_1x02_P2.50mm_Vertical_SolderClip"
+    },
+    {
+      "reference": "J12",
+      "kind": "field Mating housing",
+      "old": null,
+      "new": "105307-1202"
+    },
+    {
+      "reference": "J12",
+      "kind": "field Crimp terminal",
+      "old": null,
+      "new": "105300-2200"
+    },
+    {
+      "reference": "J12",
+      "kind": "field TPA retainer",
+      "old": null,
+      "new": "105325-1002"
+    },
+    {
+      "reference": "J12",
+      "kind": "field Datasheet",
+      "old": "",
+      "new": "https://www.molex.com/en-us/products/part-detail/1053111202"
+    },
+    {
+      "reference": "J12",
+      "kind": "field Description",
+      "old": "",
+      "new": "Nano-Fit 2.50 mm 2-circuit vertical top-entry solder-clip header; black; 0.38 um gold; pin 1 +5V, pin 2 GND"
+    }
+  ]
+}

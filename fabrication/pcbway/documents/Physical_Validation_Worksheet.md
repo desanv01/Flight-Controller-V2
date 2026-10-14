@@ -1,0 +1,3 @@
+# PCBWay EVT1 physical-validation worksheet
+
+Propellers removed for every motor test. Record article/lot/operator/equipment and pass/fail for: D3/U4/L2/C14 absence; harness MPN/polarity/resistance; current-limited 5.2 V first power-up; quiescent current; 3 A continuous load; 4 A/100 ms transient; rail 4.9–5.5 V; connector/copper rise; 55 °C ambient continuous test; optional 70 °C screen; USB-only cannot power FC; POWER1+USB backfeed <100 µA; USB enumeration/reconnect; brownout/recovery; both IMUs and BMP388; CRSF link and receiver-loss failsafe; OpenESC continuity/signal integrity; PWM then DShot300 then bidirectional DShot300 then DShot600; Mission Planner order 1 FR CCW, 2 RL CCW, 3 FL CW, 4 RR CW. Flight release requires all mandatory rows pass and deviations close.

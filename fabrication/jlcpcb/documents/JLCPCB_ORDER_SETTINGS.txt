@@ -1,0 +1,27 @@
+FCV2 FC REV A — ENGINEERING VALIDATION EVT1
+Primary manufacturer/assembler: JLCPCB Standard PCBA
+
+SOURCE BOARD
+- Six copper layers, 1.60 mm finished thickness
+- Controlled-impedance stack-up: JLC06161H-3313
+- Outer copper: 0.035 mm / 1 oz nominal
+- Inner copper: 0.0152 mm / approximately 0.5 oz nominal
+- Finish: ENIG
+- Solder mask: green
+- USB differential impedance: 90 ohm, tolerance +/-10%
+- JLC calculator geometry (L1 referenced to L2, non-coplanar):
+  trace width 0.1537 mm, pair gap 0.2032 mm
+- Preserve resin-filled/plated-over via requirements where called out
+
+ASSEMBLY / PANEL
+- Standard PCBA manufacturer panel, preferred 2 x 2
+- Routed outline with assembly rails and manufacturer-selected breakaway tabs
+- Single-board Gerber/drill/IPC-356 data is the source of truth
+- Do not place mouse bites between the integral POWER1 tab and main board
+- Do not substitute J12 if 105311-1202 is unavailable; install globally sourced
+  genuine Molex 105311-1202 after PCBA or hand-solder it under controlled process
+- Verify normalized CPL rotations in the JLCPCB assembly viewer before checkout
+
+POWER1 WARNING
+- REGULATED 5.2 V ONLY — NO VBAT
+- J12 is not hot-plug rated for this application; mate/unmate only when unpowered

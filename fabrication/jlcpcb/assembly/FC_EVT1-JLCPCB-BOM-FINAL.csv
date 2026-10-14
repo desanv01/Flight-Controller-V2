@@ -1,0 +1,52 @@
+Comment,Designator,Footprint,LCSC Part #,Manufacturer,Manufacturer Part Number,Quantity,Assembly Note
+10uF,"C1,C3,C10",Capacitor_SMD:C_0603_1608Metric,C194427,Murata Electronics,GRM188R6YA106MA73D,3,Exact listed part; no functional substitution without approval
+0.1uF,"C2,C5,C24,C25,C26,C28,C29,C31,C32,C36,C37,C43,C44,C46,C50,C51,C52,C53,C54,C55",Capacitor_SMD:C_0402_1005Metric,C77020,Murata Electronics,GRM155R71H104KE14D,20,Exact listed part; no functional substitution without approval
+22uF,C4,Capacitor_SMD:C_0805_2012Metric,C338080,TDK,C2012X5R1V226MT000E,1,Exact listed part; no functional substitution without approval
+22uF,"C6,C7,C15,C16,C48,C49",Capacitor_SMD:C_0603_1608Metric,C29519229,Murata Electronics,GRM188C61E226ME01D,6,Exact listed part; no functional substitution without approval
+75pF,C8,Capacitor_SMD:C_0402_1005Metric,C162121,Murata Electronics,GRM1555C1H750JA01D,1,Exact listed part; no functional substitution without approval
+4.7uF,C9,Capacitor_SMD:C_0402_1005Metric,C335105,Murata Electronics,GRM155R61A475MEAAD,1,Exact listed part; no functional substitution without approval
+1uF,"C17,C18,C20,C23,C27",Capacitor_SMD:C_0603_1608Metric,C5199872,Samsung Electro-Mechanics,CL10B105KB8NQNC,5,Exact listed part; no functional substitution without approval
+4.7uF,"C19,C22",Capacitor_SMD:C_0603_1608Metric,C77045,Murata Electronics,GRM188R61C475KE11D,2,Exact listed part; no functional substitution without approval
+10nF,C21,Capacitor_SMD:C_0603_1608Metric,C77053,Murata Electronics,GRM188R71H103KA01D,1,Exact listed part; no functional substitution without approval
+10nF,"C30,C39",Capacitor_SMD:C_0402_1005Metric,C77019,Murata Electronics,GRM155R71H103KA88D,2,Exact listed part; no functional substitution without approval
+0.1uF,C33,Capacitor_SMD:C_0603_1608Metric,C77055,Murata Electronics,GRM188R71H104KA93D,1,Exact listed part; no functional substitution without approval
+2.2uF,"C34,C35,C38",Capacitor_SMD:C_0603_1608Metric,C415535,Murata Electronics,GRM188Z71E225KE43D,3,Exact listed part; no functional substitution without approval
+30pF,"C45,C47",Capacitor_SMD:C_0402_1005Metric,C2987943,Murata Electronics,GCM1555C1H300FA16D,2,Exact listed part; no functional substitution without approval
+SMF26A,D1,Diode_SMD:D_SMF,C1973422,Vishay,SMF26A-E3-08,1,Exact listed part; no functional substitution without approval
+BZT52C12-13-F,D2,memo:(zener)SOD-123F_L2.8-W1.8-LS3.7-RD,C177013,Diodes Incorporated,BZT52C12-13-F,1,Exact listed part; no functional substitution without approval
+LED,"D4,D5,D6,D7",LED_SMD:LED_0805_2012Metric,C98221,Lite-On,LTST-C170KGKT,4,Exact listed part; no functional substitution without approval
+SM712_SOT23,D8,Package_TO_SOT_SMD:SOT-23,C172881,Littelfuse,SM712-02HTG,1,Exact listed part; no functional substitution without approval
+1k@100Mhz,FB1,Inductor_SMD:L_0603_1608Metric,C85824,Murata Electronics,BLM18AG102SN1D,1,Exact listed part; no functional substitution without approval
+USB4110GFA,J1,memo:GCT_USB4110GFA,C5143397,GCT,USB4110-GF-A,1,Exact listed part; no functional substitution without approval
+SM04B-SRSS-TB(LF)(SN),"J2,J3,J5,J7,J8,J10,J11",memo:CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN,C160404,JST,SM04B-SRSS-TB(LF)(SN),7,Exact listed part; no functional substitution without approval
+SM06B-SRSS-TB(LF)(SN),"J4,J9",Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal,C160405,JST,SM06B-SRSS-TB(LF)(SN),2,Exact listed part; no functional substitution without approval
+OpenESC SIGNAL-ONLY,J6,Connector_JST:JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal,C160407,JST,SM08B-SRSS-TB(LF)(SN),1,Exact listed part; no functional substitution without approval
+15uH,L1,memo:IND-SMD_L5.4-W5.2,C5291298,Coilcraft,XAL5050-153MEC,1,Exact listed part; no functional substitution without approval
+AO3407A,Q1,memo:AO3407A,C15155,Alpha & Omega Semiconductor,AO3407A,1,Exact listed part; no functional substitution without approval
+5.1k,"R1,R2",Resistor_SMD:R_0402_1005Metric,C105872,Yageo,RC0402FR-075K1L,2,Exact listed part; no functional substitution without approval
+100k,"R3,R5",Resistor_SMD:R_0402_1005Metric,C60491,Yageo,RC0402FR-07100KL,2,Exact listed part; no functional substitution without approval
+49.9,R4,Resistor_SMD:R_0402_1005Metric,C87044,Yageo,RC0402FR-0749R9L,1,Exact listed part; no functional substitution without approval
+7.15K,R5B1,Resistor_SMD:R_0402_1005Metric,C185395,Yageo,RC0402FR-077K15L,1,Exact listed part; no functional substitution without approval
+5.23k,R5C1,Resistor_SMD:R_0402_1005Metric,C477746,Yageo,RC0402FR-075K23L,1,Exact listed part; no functional substitution without approval
+4.42k,R6,Resistor_SMD:R_0402_1005Metric,C137967,Yageo,RC0402FR-074K42L,1,Exact listed part; no functional substitution without approval
+20k,R7,Resistor_SMD:R_0402_1005Metric,C93942,Yageo,RC0402FR-0720KL,1,Exact listed part; no functional substitution without approval
+0,"R8,R19,R27",Resistor_SMD:R_0402_1005Metric,C60485,Yageo,RC0402JR-070RL,3,Exact listed part; no functional substitution without approval
+330,"R13,R14,R17,R18",Resistor_SMD:R_0402_1005Metric,C105875,Yageo,RC0402FR-07330RL,4,Exact listed part; no functional substitution without approval
+10k,"R15,R16,R20,R21,R22",Resistor_SMD:R_0402_1005Metric,C60490,Yageo,RC0402FR-0710KL,5,Exact listed part; no functional substitution without approval
+4.7k,"R23,R24,R31,R32",Resistor_SMD:R_0402_1005Metric,C105871,Yageo,RC0402FR-074K7L,4,Exact listed part; no functional substitution without approval
+75,"R25,R26",Resistor_SMD:R_0402_1005Metric,C114757,Yageo,RC0402FR-0775RL,2,Exact listed part; no functional substitution without approval
+7.5k,"R29,R30",Resistor_SMD:R_0402_1005Metric,C137934,Yageo,RC0402FR-077K5L,2,Exact listed part; no functional substitution without approval
+SKRKAEE020,"SW1,SW2",Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK,C115357,Alps Alpine,SKRKAEE020,2,Exact listed part; no functional substitution without approval
+TPS54302,U1,Package_TO_SOT_SMD:SOT-23-6,C311983,Texas Instruments,TPS54302DDCR,1,Exact listed part; no functional substitution without approval
+USBLC6-2SC6,U2,Package_TO_SOT_SMD:SOT-23-6,C7519,STMicroelectronics,USBLC6-2SC6,1,Exact listed part; no functional substitution without approval
+AP2112K-3.3,U5,Package_TO_SOT_SMD:SOT-23-5,C51118,Diodes Incorporated,AP2112K-3.3TRG1,1,Exact listed part; no functional substitution without approval
+AP7343-33W5-7,U6,memo:(AP7343 )SOT-25_L3.0-W1.6-P0.95-LS2.8-BL,C460383,Diodes Incorporated,AP7343-33W5-7,1,Exact listed part; no functional substitution without approval
+STM32H743VIT6TR,U7,Package_QFP:LQFP-100_14x14mm_P0.5mm,C5271084,STMicroelectronics,STM32H743VIT6TR,1,Exact listed part; no functional substitution without approval
+ICM-42688-P,U8,memo:PQFN50P300X250X97-14N,C1850418,TDK InvenSense,ICM-42688-P,1,Exact listed part; no functional substitution without approval
+W25Q128JVSIQ,U9,memo:W25Q128JVSIQ,C97521,Winbond,W25Q128JVSIQ,1,Exact listed part; no functional substitution without approval
+BMI270,U10,memo:XDCR_BMI270,C2836813,Bosch Sensortec,BMI270,1,Exact listed part; no functional substitution without approval
+BMP388,U12,memo:PQFN50P200X200X80-10N,C779278,Bosch Sensortec,BMP388,1,Exact listed part; no functional substitution without approval
+AT7456E,U13,memo:AT7456E,C82351,ZHONGKEWEI,AT7456E,1,Exact listed part; no functional substitution without approval
+SN65HVD230,U14,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C12084,Texas Instruments,SN65HVD230DR,1,Exact listed part; no functional substitution without approval
+ASE-8.000MHZ-L-C-T,Y1,Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm,C6277872,Abracon,ASE-8.000MHZ-LC-T,1,Exact listed part; no functional substitution without approval
+TSX-3225 27.00M-N0AANNG40RG3,Y2,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C841676,Seiko Epson,X1E0000210759,1,Exact listed part; no functional substitution without approval
