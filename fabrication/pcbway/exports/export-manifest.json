@@ -12,5 +12,6 @@
     "pcb export ipcd356 --output [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\fabrication\\pcbway\\fabrication\\netlist.ipc [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\fabrication\\pcbway\\source\\hardware\\Flight Controller.kicad_pcb",
     "pcb export step --force --subst-models --no-dnp --define-var KICAD10_3DMODEL_DIR=[LOCAL_SOURCE] Files\\KiCad\\10.0\\share\\kicad\\3dmodels --output [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\fabrication\\pcbway\\exports\\board.step [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\fabrication\\pcbway\\source\\hardware\\Flight Controller.kicad_pcb"
   ],
-  "note": "Neutral engineering export; preserve documented checker exceptions and physical qualification status."
+  "note": "Neutral engineering export; preserve documented checker exceptions and physical qualification status.",
+  "publication_name_update": "2026-10-14; schematic title comment only; electrical geometry unchanged"
 }

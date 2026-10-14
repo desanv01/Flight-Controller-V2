@@ -11,5 +11,6 @@
     "pcb render --width 1500 --height 1500 --quality high --background opaque --use-board-stackup-colors --floor --define-var KICAD10_3DMODEL_DIR=[LOCAL_SOURCE] Files\\KiCad\\10.0\\share\\kicad\\3dmodels --side top --output [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\media\\hero-top.png [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\hardware\\Flight Controller.kicad_pcb",
     "pcb render --width 1500 --height 1500 --quality high --background opaque --use-board-stackup-colors --floor --define-var KICAD10_3DMODEL_DIR=[LOCAL_SOURCE] Files\\KiCad\\10.0\\share\\kicad\\3dmodels --side bottom --output [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\media\\hero-bottom.png [LOCAL_SOURCE] DRONE PROJECT\\PUBLICATION_WORK\\Flight-Controller-V2\\hardware\\Flight Controller.kicad_pcb"
   ],
-  "note": "Neutral engineering export; preserve documented checker exceptions and physical qualification status."
+  "note": "Neutral engineering export; preserve documented checker exceptions and physical qualification status.",
+  "publication_name_update": "2026-10-14; schematic title comment only; electrical geometry unchanged"
 }
