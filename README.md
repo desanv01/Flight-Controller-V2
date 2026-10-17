@@ -205,6 +205,6 @@ Inherited upstream hardware source remains under [CERN-OHL-S-2.0](LICENSE). KiCa
 
 Desan Vasu performed the project engineering activities; fabrication was external. [Contribution statement](CONTRIBUTIONS.md) · [Portfolio case study](docs/portfolio/case-study.md).
 
-Original upstream contributors: **Saleh Alhomeidy**, **Akaki Gvelesiani** and **Levani Kazaishvili**. Upstream PCB/firmware/mechanical/test work is distinguished from this adaptation. Reference projects: [ArduPilot](https://github.com/ArduPilot/ardupilot), [KiCad](https://www.kicad.org/), and the OpenESC/OpenRX ecosystem identified in the source records.
+Reference projects: [ArduPilot](https://github.com/ArduPilot/ardupilot), [KiCad](https://www.kicad.org/), and the OpenESC/OpenRX ecosystem identified in the source records.
 
 Related project: [Flight Controller V1](https://github.com/desanv01/Flight-Controller-V1).
